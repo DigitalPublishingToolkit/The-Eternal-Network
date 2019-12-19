@@ -1,37 +1,37 @@
 /* This is a stylesheet for INC's TOD publication series, using OpenSans as body typeface and Lato for headers. */
 @font-face{
-    font-family: 'Union';
+    font-family: 'OpenSans-Semibold';
     font-weight: bold;
     font-style: normal;
-    src:url('Union_bold.otf')format("opentype");
+    src:url('OpenSans-Semibold.otf')format("opentype");
 }
 
 @font-face{
-    font-family: 'Union';
+    font-family: 'OpenSans-SemiboldItalic';
     font-weight: bold;
     font-style: italic;
-    src:url('Union_bold_italic.otf')format("opentype");
+    src:url('OpenSans-SemiboldItalic.otf')format("opentype");
 }
 
 @font-face{
-    font-family: 'Union';
+    font-family: 'OpenSans-Light';
     font-weight: 300;
     font-style: normal;
-    src:url('Union_regular.otf')format("opentype");
+    src:url('OpenSans-Light.otf')format("opentype");
 }
 
 
 @font-face{
-    font-family: 'Union';
+    font-family: 'OpenSans-LightItalic';
     font-weight: 300;
     font-style: italic;
-    src:url('Union_regular_italic.otf')format("opentype");
+    src:url('OpenSans-LightItalic.otf')format("opentype");
 }
 
 
 body{
     font-size: 16px;
-    font-family: 'Union';
+    font-family: 'OpenSans-Light';
     hyphens: none
     -webkit-hyphens:none;
 }
@@ -70,14 +70,15 @@ h3{
 }
 
 
+
 b,strong{
-    font-family: 'Union';
+    font-family: 'OpenSans-Semibold';
 }
 
 figcaption{
-    font-family: 'Union';
-    font-size:0.6em;
+    font-family: 'OpenSans-LightItalic';
     font-style: italic;
+    font-size:0.7em;
 }
 
 p {
@@ -86,7 +87,7 @@ p {
 }
 
 p.italic{
-    font-family: 'Union';
+    font-family: 'OpenSans-LightItalic';
     font-style: italic;
 }
 
@@ -103,11 +104,12 @@ a.footnoteRef{
     vertical-align: super;
     line-height: normal;
     font-size: 0.5em;
+    color: #FF0000;
 }
 
 img {
-    max-width: 98%;
-    max-height: 98%;
+    max-width: 99%;
+    max-height: 99%;
     width: auto;
     height: auto;
 }
@@ -126,22 +128,22 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #B5599A solid;
+    border-left: 1px #8e8a7b solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color:  #B5599A;
+a { color: #8e8a7b;
     text-decoration: none;
   }
 
-a:hover { color:    #B5599A;
+a:hover { color: #8e8a7b;
       text-decoration: underline;
   }
 
 
 table {
-    border: 1px     #B5599A solid;
+    border: 1px #8e8a7b solid;
     border-collapse: collapse;
     width:100%;
     vertical-align: top;
@@ -150,15 +152,15 @@ table {
 }
 
 table th {
-    border-bottom: 1px  #9a9a9a solid;
+    border-bottom: 1px #8e8a7b solid;
     color: #FFF;
     background: #8e8a7b;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px    #9a9a9a solid;
-    border-right: 1px   #9a9a9a solid;
+    border-left: 1px #8e8a7b solid;
+    border-right: 1px #8e8a7b solid;
 }
 
 th, td {

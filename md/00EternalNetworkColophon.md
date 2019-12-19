@@ -15,10 +15,10 @@ Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
+#Colophon
 
-
-##The Eternal Network: The Ends and Becomings of Network Culture 
-**Edited by Kristoffer Gansing and Inga Luchs**
+**The Eternal Network: The Ends and Becomings of Network Culture**<br/>
+*Edited by Kristoffer Gansing and Inga Luchs*
 
 **Authors**: Clemens Apprich, Johanna Bruckner, Daphne Dragona, Kristoffer
 Gansing, Lorena Juan, Aay Liparoto, Geert Lovink, Alessandro Ludovico,

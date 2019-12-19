@@ -123,7 +123,7 @@ less a substance than the antithesis of a substance; a paradigm in which
 substance is transformed into a way of being without stable presence or
 meaning.[^10BrucknerMolecularSexandPolymorphicSensibilities_6]
 
-![Fig. 1: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.1.tif)
+![Fig. 1: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.1.jpg)
 
 <br/>
 
@@ -165,7 +165,7 @@ rather than a binary structure. The sexbot’s plastic figurations create
 penetrable entities that are imperceptibly but irreversibly changing our
 environment.
 
-![Fig. 2: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.2.tif)
+![Fig. 2: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.2.jpg)
 
 <br/>
 
@@ -207,7 +207,7 @@ intra-action matters most in queering our understanding of and
 participation in networked realities and technological transformation,
 moving toward entangled forms of intra-participation.
 
-![Fig. 3: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.3.tif)
+![Fig. 3: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.3.jpg)
 
 <br/>
 
@@ -248,7 +248,7 @@ forms of sexes and sexualities that might emerge from this quantum cloud
 of biological and environmental progress are still speculative.[^10BrucknerMolecularSexandPolymorphicSensibilities_13]
 
 ![Fig. 4: Quantum Polymorphic Sensibilities. Johanna Bruckner, 2019.
-Installation view. Photo: Astrid Piethan.](imgs/10.4.tif)
+Installation view. Photo: Astrid Piethan.](imgs/10.4.jpg)
 
 <br/>
 
@@ -304,7 +304,7 @@ embodiment is their situational embedment in the environment as well as
 their interaction with it, as an embodied cognition.
 
 ![Fig. 5: Quantum Polymorphic Sensibilities, Johanna Bruckner, 2019.
-Performance. Photo: Guillermo Heinze.](imgs/10.5.tif)
+Performance. Photo: Guillermo Heinze.](imgs/10.5.jpg)
 
 <br/>
 

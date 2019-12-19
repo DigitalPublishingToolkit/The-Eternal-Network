@@ -245,7 +245,7 @@ systems of oppression go on, there is a need to self-organise opposition
 and find ways to build energy in our communities.
 
 **LJ:** In questioning the spaces that we inhabit, the artwork of Tabita
-Reizaire comes to mind. In *Afro Cyber Resistance* (2014), she draws
+Rezaire comes to mind. In *Afro Cyber Resistance* (2014), she draws
 upon discourses of e-colonialism to show up the internet as a ‘white
 space’. How do you see *Not Found On* in relationship to this? 
 

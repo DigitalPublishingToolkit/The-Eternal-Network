@@ -212,7 +212,7 @@ wiki platform *Not Found On*, which Liparoto initiated in 2019. The
 platform constitutes a rethinking, from an intersectional perspective,
 of the way that collective and open-source projects and knowledge
 resources are conducted and cared for. Offering a web service that is
-closed to the general public, Liparoto and her collaborators attempt to
+closed to the general public, Liparoto and their collaborators attempt to
 create the online equivalent of a ‘safe space’, for individuals (or
 dividuals) and communities that, due to their precarious social status,
 do not necessarily want to be exposed on so-called open and

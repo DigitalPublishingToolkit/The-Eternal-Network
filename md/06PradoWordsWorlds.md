@@ -459,7 +459,7 @@ worlds is capable of transcending life itself.
 
 Most importantly, all of these persons were already, through their
 practices – as activists, artists, curators, singers, cooks,
-storytellers, curators, cultural workers, writers, poets, filmmakers,
+storytellers, cultural workers, writers, poets, filmmakers,
 educators, and care workers, among others – conducting their own
 versions of what I had come to call ‘The Councils of the Pluriversal’.
 Amongst all of the experiences I had while developing this research,

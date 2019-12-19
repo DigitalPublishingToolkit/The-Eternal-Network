@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Requiem for the Network</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Geert Lovink</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the final stage of his “liberation” and emancipation through the networks, screens and technologies, the modern individual becomes a fractal subject, both subdivisible to infinity and indivisible, closed on himself and doomed to endless identity. In a sense, the perfect subject, the subject without other – whose individuation is not at all contradictory with mass status.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jean Baudrillard, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Impossible Exchange</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Verso, 2015 (1999), p. 64.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Jean Baudrillard, 1999</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This is the age of network extinction.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>This text was commissioned by transmediale and is a shortened version of the original essay written in July–September 2019. The full version can be found on my blog, net critique, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://networkcultures.org/geert</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Small is trivial. The notorious vagueness and non-commitment of their slackerish members almost killed the once-cute postmodern construct of ‘networks’, and platforms did the rest. Decentralization may be still in favor, but no one is talking about networks as a solution for the mess that social media is in. Where have all the networks gone?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this age of the subject without a project, there is no ‘underground’ anymore. Once, building one, two, three, many networks as alternatives to crumbling institutions such as trade unions or political parties was a fashionable post-Cold-War tactic. Back then, networks were seen by shady agencies like the RAND Corporation as stealth-technologies, able to infiltrate, disrupt and penetrate rogue states and/or other actors perceived as enemies of the United States’ world order. Following the democratization of the internet, the concept of ‘the network’ first introduced in the 1980s in the field of banking (as ‘financial networks’) has now reached the status of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>gesunkenes Kulturgut.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>lit. ‘sunken cultural goods’, a term coined by folklorist Hans Naumann, which is rarely translated out of the original German.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Was it the ‘open’, informal character of ‘the network’ that killed it – or, rather, the absence of a collective will to do anything much more than feed on clickbait?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>TechCrunch</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> writer Romain Dillet, the term ‘social network’ has been emptied of meaning: ‘Chances are you have dozens, hundreds or maybe thousands of friends and followers across multiple platforms. But those crowded places have never felt so empty.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Romain Dillet, ‘The Year Social Networks Were No Longer Social – In Praise of Private Communities’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>TechCrunch</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (23 December 2018), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://techcrunch.com/2018/12/23/the-year-social-networks-were-no-longer-social/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. All quotes from this paragraph are from this article.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> He concludes that the concept of wide networks composed of social ties with an element of broadcasting is dead. For Dillet, what killed the network was the never-ending push to add more ‘people you may know’, on the basis that more equals better, in alignment with the capitalist imperative of perpetual growth. According to this logic of social networks, accumulating more friends is equivalent to a firm demonstrating a strong capacity to expand its market reach. Yet a sad emptiness accompanies the mass individualization of the cult of personality. Dillet: ‘Knowing someone is one thing, but having things to talk about is another.’ Blaming the dark pattern design that emerged in the desperate attempt to push even more ads – tech companies will do whatever it takes to grow – Dillet concludes: ‘As social networks become bigger, content becomes garbage.’ Yet here, instead of entering the political debate on how to break up these monopolies and build meaningful alternative tools that could replace the platforms, for example, Dillet resorts to the making of a cheap ‘digital detox’ gesture: ‘Put your phone back in your pocket and start a conversation. You might end up discussing for hours without even thinking about the red dots on all your app icons.’ Is it really so impossible to reimagine the social without blaming ourselves for being weak, addicted individuals?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the meantime, the term ‘networks’ has been elegantly removed from the tech vocabulary. Search for the term in the books that capture the current state of the internet, such as Nick Srnicek’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Platform Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2015), Benjamin Bratton’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Stack</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2016) or Shoshana Zuboff’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Age of</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Surveillance Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2019), and you will search in vain. Not even activist literature uses the term much anymore, and the mathematics- and social-science-driven ‘network theory’ has been dead for over a decade. In fact, the left never made a notable effort to ‘own’ the concept; if anyone did, it was ‘global civil society’, a hand-picked collection of NGOs that played around with Manuel Castells’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Network Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in an attempt to enter the realm of institutional politics at a transnational level. The distribution of power over networks turned out to be nothing but a dream. The valorization of ‘flat hierarchies’, a notion especially endorsed by ‘the network is the message’ advocates, has been replaced by a platform system driven by influencers who are ‘followed’ in a passive-aggressive mode by everyone else, without consequence. Absent a redistribution of wealth and power, we feverishly continue to ‘network’ under the calibrated eye of platform algorithms.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So, whatever happened to the network idea? In researching this essay I have made the rounds, consulting with fellow activists, artists and researchers on different continents on how they see the sorry status of networks now. I started out by talking with the Dutch post-digital art critic Nadine Roestenburg, who believes that millennials and Gen-Z see networks as a given:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>[A]n underlying structure that no longer takes a fixed shape. Everybody and everything is always connected to each other, there is no longer a white space between the nodes. The network has exploded into a void; a hyperobject too big, too complex for our understanding. Meaning is lost in meaningfulness and therefore we are desperately searching for a starting point, a single node that can reconnect us. This explains the popularity of digital detoxes, mindfulness, meditation. In [the] arts, psychogeography, as a tool to trace the physical[ity] of the digital, in a requiem for understanding, starting with the visualiz[ation of] the invisible network structure.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Nadine Roestenburg, 25 July 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Roestenburg then suggested I contact Jenny Odell, the Bay Area-based author of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>How to Do Nothing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Odell wrote back:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One thing that hasn’t changed is that we require certain contexts in order for speech and action to be meaningful. There is such a big difference between 1) saying things in a group where you are recognized, and which has convened (physically or digitally) around a specific purpose; and 2) shouting into an anonymous void, having to package your expressions in a way that will grab the attention of strangers who have no context for who you are and what you’re saying. Both in group chats and [at] in-person meetings, I’m amazed at how things actually get </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>done</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> rather than just </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>said</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, with people being able to build off of the expertise of others in an atmosphere of mutual respect. Social media, through the process of context collapse, makes this kind of thing impossible by design.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Jenny Odell, 7 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Odell believes it is worth revisiting and defending the idea of decentralized federation,</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>because the model preserves the aspects of sociality that make the most of the individual and the group. Looking back at the history of activism, the decentralized form shows up over and over again. The density of the nodes allows people to form real relationships, and the connections between the nodes allow them to share knowledge quickly. To me, this represents the possibility of innovating new ideas and solutions – rather than one-off, mic-drop statements and a bunch of “connected” individuals simply spinning their wheels.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Jenny Odell, 7 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Now let’s get unfashionable, dig up an Adorno quote from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Critical Models</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and recast it into the social media age: ‘The old established authorities decayed and were toppled, while the people psychologically were not ready for self-determination. They proved to be unequal to the freedom that fell into their laps.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Theodor W. Adorno, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Critical Models: Interventions and Catchwords</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Columbia University Press, 2005, p. 191.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This is what networks require: an active form of self-determination. Self-organization from below is the precise opposite of smooth interfaces, automated imports of address books and algorithmic ‘governance’ of one’s news and updates. Self-determination is not something you can download and install for free. During the turbulent 1990s, centralized information systems lost their power and legitimacy; but instead of smaller networks that claimed to be more democratic, and – in theory – to promote people’s autonomy and sovereignty, all we got was ever larger and more manipulative monopolistic platforms. Self-determination is an act, as it turns out, or a series of actions; a political event, or event-series – and not an inbuilt feature of software.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Like any form of social organization, networks need to be set up, built, and maintained. Unlike what mapping software seems to suggest, networks are not created whole, and on the spot, as if they were machine-generated entities. We’re not talking here about automated correlations; forget the visual snapshots. Networks are constituted by protocols and their underlying infrastructures. And they’re lively, too: once networks start to grow on their own, they may develop in unexpected directions; they may branch off, diverge, flourish but then stagnate, and are just as easily abandoned as they are to get started. Unlike other forms of organization, the political charm of networks lies in their ability to create new beginnings, a miraculous energy much like that which Hannah Arendt describes, when she writes of what is unleashed when we begin anew.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See Oliver Marchert, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Neu Beginnen</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Wien: Verlag Turia + Kant, 2005, pp. 18-19.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Might rethinking networks as tools for re-beginning lure us away from ‘collapsology’ and our never-ending obsession with the ending of this world?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>‘Collapsology is the study of the collapse of industrial civilization and what could succeed it.’ The concept was developed by Pablo Servigne and Raphaël Stevens in their 2015 essay ‘Comment tout tout collombrer: Collapsology’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Archeos</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (8 January 2019), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.archeos.eu/collapsologie/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. See also Collapsologie, a site that ‘keeps track of the scientific literature on ecological collapse, limits to growth and existential risks’, &lt;www.collapsologie.fr&gt;.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It may be that the informal character of networks encourages unknown outsiders to join them; however, it is this, too, that can lead to a culture of non-commitment, the formation of informal hierarchies, and power-plays by and among those who are most active in them. What are we supposed to do? Respond? Like? Retweet? This uncertainty is part of the network architecture when you do not have the pseudo-activity of likes, clicks, and views. Networks are easy to join – and to abandon. They require neither formal membership nor the creation of a profile – a random username and password is all that’s usually required. But neither do networks just ‘fall out of the sky’, however events such as riots and flash mobs might seem to suggest otherwise. On platforms, the characteristic ebbs and flows, the ups and downs of networks, are replaced (or overcome) by a constant stream of messages. Instead of inviting us to act, this requires that we spend most of our time keeping up-to-date, in a constant state of mild panic, trying to work through the backlog of tweets and updates we might have missed or ignored over the past few days. Depleted and too wiped out to do anything else, we’re left near-comatose, contemplating the now-familiar void. An emptiness amplified by a sense that there’s nothing better to do is one of the primary affective consequences of this mass-training for an automated future. Platforms establish a psychic blockade against thinking and acting (to put it in Mark Fisher’s terms); their ‘service design’ is such that we’re no longer lured to action, but instead express our outrage or concern. These are the ‘networks without a cause’ that invite us to respond to each and every event primarily and only with stripped-down opinions, basic responses.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In Italy, a country where the term ‘social networks’ is still circulating, the debate over the current state of the social is as lively as ever. Writing in response to my thesis on the death of the network in the age of platform capitalism, Tiziana Terranova, author of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Network Cultures</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2004), states her conviction:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>[I]f we can look back at the network age it [is] possible only because we seem to be at the highest point of the network wave – a mathematical abstraction derived from and implemented into communication technologies, which still completely dominates and organizes the epistemic space of contemporary societies. What we probably can look back on, and many of us are [doing], is [a] hopeful time of networks, when it was still possible to see new possibilities in the network topos, rather than just the reorganization of power. It might be possible to perceive, even now, what networks might eventually give in to, something emerging at the very limits of hyperconnectedness and the proliferation of correlations that have displaced modern notions of causality. If I had to place a bet on what this something might be, I would put it on technologies that employ quantum-theoretical models of entanglement (rather than connectedness) and “spooky” models of causality. It might be possible that this is where new technologies of power and struggles for emancipation from the grip of economic, social and cultural relations might have to unfold. Translating this within my own framework, I have to think of “unlikely networks” – those constituted not of family, high-school friends and colleagues, but of seemingly random strangers, and via a much weirder and more radical process than those by which algorithms are now selecting partners on dating apps. Event-driven entanglements are important here.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Tiziana Terranova, 8 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In his 2018 collection of interviews </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Facebook entkommen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the Austrian researcher Raimund Minichbauer neatly sums up the stagnation in which, he claims, numerous artists, activists, and researchers have found themselves since 2011, when the last renaissance of certain social movements occurred, and the last attempts at a certain kind of ‘indie’ social networking were made before the final lock-in.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Raimund Minichbauer, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Facebook entkommen</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Wien: Transversal Texts, 2018, pp. 101-103.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Much to the surprise of insiders, most autonomous groups and social centers still use Facebook to announce their activities. Informed by similar considerations to those articulated in Minichbauer’s publication, the Institute of Network Cultures’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Unlike Us</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> network embodies a similar attempt to combine social media critique with the promotion of alternatives. Despite two waves of public interest, one after the 2013 revelations of Snowden, the other in the aftermath of the Cambridge Analytica scandal in early 2018, nothing has fundamentally changed. Even though we know a lot more about ‘behavior modifications’ and the ‘abuse’ of user data, these insights have not led to a significant change in platform dependencies.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>While the list of alternative apps steadily grows, how can activists be so openly cynical about their own alternatives? And what does it say about the level of ‘regression’ in Western societies, when even the most engaged activists are so ‘liberal’ about Facebook use? Is it laziness? Is the fear of being isolated otherwise justified? Once upon a time, alternative communication infrastructure was considered vital to the survival of ‘the scene’: from zines, bookstores, independent distributors, and print shops, to free/pirate radio stations, autonomous internet servers, and related ISPs. Interviewed in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Facebook entkommen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2018)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> the data activist/researcher Stefania Milan describes the move to what she terms ‘cloud protesting’. As Milan herself witnessed when the Occupy camp in Toronto was evicted, this is when activists respond to incidents such as police violence by becoming instant reporters, grabbing their phones to document and upload the incriminating evidence to social media platforms. Milan prefers to speak of ‘mobilizations’ rather than ‘movements’, and notes the contradiction between the horizontal decision-making structures observed at events by activists, such as the ‘human microphone’ protocol that emerged at Occupy, and the absolute lack of similar structures and/or protocols within the technical infrastructures of the platforms that such ‘cloud protestors’ utilize.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Minichbauer, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Facebook entkommen</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Minichbauer points at another sensitive issue where social movements, geeks and technology designers appear not to have made any progress: that is, the question of ‘community’. Mark Zuckerberg’s systematic abuse of the term is on full display whenever he talks about ‘his’ 2.4 billion Facebook users as if they were one ‘global community’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Mark Zuckerberg, ‘Building Global Community’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Facebook</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (16 February 2017), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As Minichbauer suggests, it would be easy to dismiss this appropriation of the term, as if we should not persist in deconstructing shallow corporate definitions – but neither should we allow our dismissive aversion to such usage (or to platforms per se) to lead us to take a position in which we reject any form of platform-based mutual aid or (free) cooperation with others out of fear that our every interaction might be – or indeed, is being – tracked, mapped, and commodified. As Haraway says, we should ‘stay with the trouble.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Donna J. Haraway, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Staying with the Trouble: Making Kin in the Chthulucene. Experimental Futures</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Durham: Duke University Press, 2016.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Community is either a living entity that exists in the here and now, with all of its contradictions and mishaps, such that ‘we’ have something in common – a commons, that is – or it is a dead entity that should no longer be invoked while we’re in search of other forms of the social. As studies of kinship have shown, many people are glad to escape the strains of close-knit living. As Jon Lawrence has written in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Guardian</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: ‘If we abandon vague aspirations to rediscover an idealized vision of community that never existed and focus instead on small-scale, practical initiatives to foster social connection and understanding, we stand a chance of weathering the present crisis with our social fabric intact.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jon Lawrence, ‘The Good Old Days? Look Deeper and the Myth of Ideal Communities Fades’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Guardian</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (11 August 2019), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.theguardian.com/commentisfree/2019/aug/11/good-old-days-look-deeper-and-myths-of-ideal-communities-fades</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>And Charles Hugh Smith, writing on networks vs. central planning: ‘Whether we acknowledge it or not, the world is placing its bets on which system will survive the coming era of destabilizing non-linear change: inflexible, opaque Central Planning [sic] or flexible, self-organizing networks of decentralized autonomy and capital.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Charles Hugh Smith, ‘Which One Wins: Central Planning or Adaptive Networks?’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Of Two Minds</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (19 February 2019), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.oftwominds.com/blogfeb19/evolution-wins2-19.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This, then, is the choice with which ‘we’ have failed to see ourselves presented over the past decades: a diverse coalition of liberal business elites, geek entrepreneurs and activists have consistently overlooked the possibility that ‘the internet’ itself would one day be a Central Planning Committee platform. Having used the network logic in order to advance a ruthless process of hypergrowth at all costs, the collection of entities known as ‘Silicon Valley’ appears to have dumped the network logic altogether. Once all of our address books were copied, our networks properly ‘mapped’, their diffuse and ‘rhizomatic’ structure became a nuisance and was discarded in favor of clearly defined, profile-centric ‘graphs’, or metrics, of how users interact with products and ‘friends’.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Strangely enough, the demise of network logic has not (yet) been properly theorized. Meanwhile, networks have become an invisible secondary layer in ‘the stack’,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>I further describe this rearrangement of the key terms of ‘media’, ‘network’, ‘platform’, and ‘stack’ in my book </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Sad by Design</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Pluto Press, 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and a ‘remediation’ effect (as described by Bolter and Grusin) has come into play: the content of the platform is the network. This only works, however, if the mesh of ‘friends’ or ‘followers’ actually constitute active networks. Platforms become worthless if these are fake or dead. Indeed, platforms can only come into being and generate the desired extractive value if there are actual exchanges and interactions happening, on a scale beyond a certain critical mass. Automated exchanges between machines (bots) can simulate the social, but such ‘fake’ traffic only works to generate value if it exists parasitically, in addition to that of real live users; in isolation from whom they become worthless. Without humans such as sys-admins, moderators, software developers and network maintenance workers, any platform would cease functioning: forget one patch and the whole system breaks down. And while anyone can set up a website, run an app, or host a network, there are still only a very few with the meta-level skills and resources to run a platform.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In Shoshana Zuboff’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Age of Surveillance Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2019), ‘the network’ isn’t even mentioned. Perhaps the term is too drily technical for Zuboff, who prefers to borrow from behavioral science terms for animal-group behaviors such as ‘hive’ and ‘herd’. These, she contrasts with what she claims to be a specifically human need for the ‘sanctuary’ of the ‘home’, for, in her own words: ‘surveillance capitalism has </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>human</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> nature in its sight.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Shoshana Zuboff, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Age of Surveillance Capitalism</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Profile Books, 2019, p. 346.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The new frontier of power, for Zuboff, is the data-extraction of the ‘behavioral surplus’ for repackaging and resale in the form of predictions, for the logic of surveillance capitalism is precisely that of extraction-prediction-modification. Unlike what many artists, theorists and activists once feared, it is not the ‘social noise’ of our precious informal relations that is appropriated (and so compromised) by machines: the prime targets are minds, brains, and behaviors. For Zuboff, so-called ‘social media’ are primarily neither social nor mediational in purpose.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The network form, in contrast, embodies a constructivist view of the social as neither a technical protocol nor a mere given, but a vital element or utility of society which continuously requires to be recreated, maintained, and cared for by humans: without this, networks rapidly break down. This is in stark contrast not only with the instrumentalist Silicon Valley view but also those of science &amp; technology (STS) scholars who indulge an admiration for autopoietic automation without cranky wetware threatening to spoil the party, and for whom networks embody the ‘all too human’: vulnerable, moody, unpredictable, sometimes boring or rather excessive, and yes, sometimes out of control. These network characteristics can all be ‘managed’ and ‘administrated’ through moderation, filtering, censorship and ‘algorithmic governance’; but they cannot wholly be eliminated ‘for good’.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What happens if we start to look at social media from an instrumentalist point of view, and apply this Skinnerian dogma to today’s platforms: ‘A person does not act upon the world, the world acts upon him’? Against most cultural studies approaches that emphasize the neoliberal subjectivity of the competitive self, for Zuboff there is no more individuality: as part of the herd, we’re programmed to do what our digital instinct tells us to. In her classic sociological view (informed by Durkheim), there is little room left for agency: these days, us weakened neoliberal subjects are no longer considered as self-confident actors. The good old days when practitioners of British cultural studies discovered hidden capabilities for subversive appropriation, potential and actual, among apparently passive consumers are over. Now we online billions are frowned upon either as busy bees working for the Valley, or as addicts and victims of the latest conspiracy to manipulate our tastes and opinions. And we urgently need the agency that we lack.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>How did this </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Netzvergessenheit</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, this forgetfulness towards networks, occur? Once, when a network became too big, it was supposed first to disintegrate, then to regroup, then to replicate its structure at a higher, or meta level to create a ‘network of networks’. For those around in the ‘emerging’ 1990s, some of these dynamics were patently on display. These days, the foundational network principles – decentralization, distribution, federation – still sound idealistic and magnificent, yet more unreachable than ever before. Historically speaking, the trouble started right at the height of their influence. When the internet population started to grow exponentially in the late 1990s to early 2000s, diversification reached a critical point, as users started to flock to the same websites. Conceptually speaking, Web 2.0 began with ‘scale-free networks’ that exhibited a power-law degree of distribution. The introduction of this term marked a paradigmatic shift, indicating the end of the old-school idea that networks simply had an upper size-limit, after which they would fall apart and almost ‘naturally’ create new nodes.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See also danah boyd on how her term ‘context collapse’ emerged in the early Web 2.0 period. danah boyd, ‘how “context collapse” was coined: my recollection’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>apophenia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (8 December 2013), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.zephoria.org/thoughts/archives/2013/12/08/coining-context-collapse.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The conceptual step from scale-free networks to ‘the platform’ was a small one, but it took almost a decade, up until 2010, when Tarleton Gillespie formulated the first rules of what was to become the internet platform economy.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mathematics-based network science has had its day, and, in any case, remains silent over ‘the law of scale-free bullshit’. Most of the engineers who built it all not only remain silent but claim innocence. 8chan founder Fredrick Brenner is one of the few to publicly express second thoughts: ‘There’s this idea that if we have unbridled freedom of speech that the best ideas will fall out. But I don’t really think that’s true anymore. I mean, I’ve looked at 8chan and I’ve been its admin, and what happens is the most rage-inducing memes are what wins out.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Nicky Woolf, ‘Destroyer of worlds: How a childhood of anger led the founder of 8chan to create one of the darkest corners of the internet’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Tortoise Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (29 June 2019), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://members.tortoisemedia.com/2019/06/29/8chan/content.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. See also the work of Alberto Brandolini, originator of the bullshit asymmetry principle; Brandolini’s law emphasizes the difficulty of debunking bullshit, the development of the ‘intellectual denial of service’ concept, and that of ‘bad infinitum’: ‘a tendency for non-experts to overwhelm experts with repetitive costly, and often unproductive demands for evidence or counter-argument to oft-debunked or misleading claims’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Techiavellian</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://techiavellian.com/intellectual-denial-of-service-attacks</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Similarly, in the case of actor-network theory, it simply could not compute the ugly side of social media platforms. None of this was supposed to happen, even as the political-economy blind-spot of the ‘mapping-without-a-cause’ Latour school became blatantly evident. From the late 1990s onwards, it was increasingly clear that academics and theorists were no longer capable of keeping up with Silicon Valley’s hypergrowth strategy, as its venture capitalists quietly financed the move from neoliberal markets to the creation of monopolies by ‘breaking things’. Clearly, the wisdom of the few was that competition was for losers. The once remarkable insight that non-human entities such as bots are also actors no longer mattered.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Amsterdam-based student activist and theorist Sepp Eckenhaussen stresses the role of the network as a business model:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Networks generate data and data equals money. Needless to say, these are not ordinary users. In this model, surplus value is constantly taken out of the network. This is known to be the case with social media but also happens in self-organized solidarity networks. These mechanisms seem to work best where[ever] the isolation of precarious subjects is worse [than elsewhere], and at once also felt most [strongly], such as in the art scene: the longing for community makes us easy prey. The willingness to share freely and build up sincere connections can easily lead to an “enclosure of the commons”. Look at how academics ran into the business-trap of academia.edu, after they had uploaded all their work in full confidence that they were sharing it amongst their own network and that it would not be exploited.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ico Maly, ‘The end of Academia.edu: how business takes over, again’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>diggit magazine</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (22 February 2018), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.diggitmagazine.com/column/end-academiaedu-how-business-takes-over-again</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dead or not, let’s look into the ongoing potential of networks. Data activist and researcher Niels ten Oever, who works with Stefania Milan on the Datactive project, emphasizes their invisible aspect:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Networks provide orderings to our lives, societies, machines, and cities. When networks make themselves known, they become visible in an almost burlesque manner: we want to see them, we know they are there, and yet they always remain at least partially covered. They evade total capture, whatever we build on top of networks to make them seem interconnected, centralized, and uniform. Underlying networks show themselves at time of change, rupture, and crisis.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Niels ten Oever, 5 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For ten Oever, networks still exist and thrive best underground:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The network is a complex assemblage, a multiplicity, that has raw and fuzzy edges and never really works as expected. It can never be completely seen or understood. After wreaking havoc on the world, […] networks cede back to where they belong: underground. Movements that are built on top of networks can have two fates: either they dissipate back into the distributed nature of the network (where they still travel!) or they centralize and get shed by the network itself, where they flow to the logic of institutionalization. Our plans should be big, but our expectations should be low. There is nothing wrong with being underground.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Niels ten Oever, 5 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Euro-American cultural critic Brian Holmes, who has been an active nettime member for over two decades, believes that the network paradigm is still alive:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Here’s the thing about the contemporary communications network: each of its human nodes is a socialized individual emerging from deep collective time, whether centuries or millennia. Network theorist Manuel Castells was spectacularly wrong: the Net and the Self are not ontologically opposed, but instead, they’re continually intertwined at all levels. This means that if you want a network to successfully self-organize, its members have to develop both an explicit ethics and a shared cultural horizon, as to overcome the inherited frameworks of belief and behaviour. Anarchists already knew this in practice, since their communities typically involve some kind of overarching philosophical dimension, as well as carefully articulated codes for daily collective life. At the opposite end of the political spectrum, Islamist radicals knew it too: they called on ancient religious beliefs and updated sharia laws to knit their networks together. That’s why such groups could successfully take the lead during the early rounds of networked politics, beginning in 1999 and 2001 respectively. Meanwhile, media theorists including myself were projecting the idea that as long as you built it with free software, the computer-linked media system represented a clean break with the past: a sudden liberation from the manipulated corporate channels that had blocked spontaneous self-organization for so long. And here’s the other thing: it just wasn’t true.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Brian Holmes, 7 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Holmes also believes we still live in networked societies:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I still spend a lot of time working on technological platforms for self-organizing nets, such as the map/geoblog I’m currently making for the Anthropocene River network. What’s clear, however, is that networked cultures aren’t born from technological inventions such as the microprocessor or TCP/IP. Instead, they are made by individuals working collectively to transform not just their technological tools, but also their cultural horizons, and above all their day-to-day codes of ethical conduct. How to accomplish such profound cultural and philosophical work while still attending to the complex technologies on which most everyday social interactions now depend? That’s where the political question is coalescing right now.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Brian Holmes, 7 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The precarity theorist from Milan Alex Foti thinks that ‘the distinction [between the] technical [network and the] social network has now blurred as the political and ethical aspects of algorithmic technology have come to the fore.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Alex Foti, 28 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> He urges us to form our own platform parties and organizations, because:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>[I]solated individuals on social media are less powerful than party cabals that resort to bot armies and constant media manipulation. Online platforms are the only way to grow fast in membership and power. Federalism is at the heart of the European project, but that doesn’t equate with horizontalism. We need to have a federal republic of Europe, federated hackers of the Union, federated collectives of xenofeminists, etc. It’s time for effectiveness over righteousness. Anti-systemic forces need intellectual debate but also a shared line, and especially disciplined local cadres ready to fight for the planet against fossil capitalism. This means developing a green anti-capitalist ideology that gives meaning to the struggles of people and an organization that embodies it and implements it, especially if civil wars break out after ecological catastrophe.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Email exchange with Alex Foti, 28 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What emerges out of the patchwork of experiences of the past decades is a new notion of network-driven techno-voluntarism. Forget automated processes, compulsory updates. The strength of a network is not to </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>inform</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> its participants – information does not lead to action. This takes us back to the core question of the organization of like-minded souls that come together to take action, and all of the related assumptions that need to be taken apart. How do such ‘cells’ come into being? Can we overcome paranoia and a lack of trust of strangers, and start to act with ‘the Other’ in ways that open up filter bubbles in order to establish cosmopolitan platforms that facilitate local networks for working together on, yes, the peer-to-peer production of common care? We know how to exchange information, how to communicate; now what need is to put this knowledge to use in cause-based contexts. We don’t need no more updates.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The European counter-meme collective Clusterduck lists the following tactics for the defense of networks:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our digital communities constantly undergo forms of intrusion, pollution, appropriation. Networks are not dead and yet they are buried. The right to network is not granted and must be claimed through practices of analysis, hijacking and reappropriation. From the BBS frontiers to Web 2.0, the human capacity for cooperation has constantly evolved, defying easy definitions.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Surviving as a network today requires an increasingly complex toolkit of practices: creating a movement based on a Twitter hashtag to convey a sense of a constant URL activity; hijacking the YouTube RetroPlayer-algorithm to make sure that right-wing commentators’ videos are followed by debunking videos capable of bringing radicalized users out of the so-called “alt-right funnel”; organizing moments where the networks can meet IRL to coordinate, celebrate and strengthen the ties between users; founding and administrating thematic groups on mainstream social platforms such as Facebook and Reddit, to lure users and communities away from there and redirect them to fringe social platforms such as Mastodon, Discord or Telegram; analyzing the history of web communities and subcultures, to learn their networking techniques and proceed backwards, in order to understand the processes of hostile appropriation, co-optation and hijacking they had to endure; breaking the cycles of hatred, triggered by bots and sponsored trolls, through white-hat trolling and debunking activities, to turn the quarrel and noise of “reverse censorship” into something meaningful; using contemporary design and codes to carry our messages, and create memes and memetic narratives that can propagate through filter bubbles, in order to bring together communities that would never meet otherwise; exploring new narratives, highlighting the importance of interspecies cooperation and the significance of symbiotic and parasitic relationships in shaping our capacity to co-evolve. “None of us is stronger than all of us” has never been so alive.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Statement by the Clusterduck collective, 17 August 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>All this leaves me with the question of how </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>I</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> look (back) at networks. Am I ready to salvage the name of my research institute – the Institute of Network Cultures – to make a statement? Is this a requiem without consequence, like a sing-along song that sticks with you for a while and then gets forgotten? Should I let go, or do I have some emotional attachment to the term? If the concept no longer works, then should it just be dropped? It is true that over the past decade our Institute of Network Cultures has not started up ‘a platform’ – maybe we should have. Instead, what I have tried to do is to strengthen the concept of the network from within, in order to overcome the indecisive nature of networks. Since 2005, I have worked together with Ned Rossiter on the idea of ‘organized networks’. Our book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Organization After Social Media,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in which we brought together our theses, came out in 2018.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Geert Lovink and Ned Rossiter, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Organization After Social Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Colchester: Minor Compositions, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In it, we deliberately did not address how to scale up with networks. Instead, we propose that the problem of ‘weak links’ might be overcome by leaving behind the diffuse networks of which they are a feature and working only with much smaller, dedicated online groups that are based on ‘strong links’. Against the proclaimed ease of reaching critical mass in no time, and the contemporary desire to go from ‘zero to hero’ in a day, we put forward the idea of an avant-garde cell or think-tank that sticks to the issue at hand. The shift here is one towards organizations that need certain tools to get things done.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Organized networks invent new institutional forms whose dynamics, properties and practices are internal to the operational logic of communication media and digital technologies. Their emergence is prompted, in part, by wider social fatigue with, and increasing distrust of, institutions such as churches, political parties, firms and labor unions, which maintain hierarchical modes of organization. While not without hierarchical tendencies (founders, technical architectures, centralized infrastructures, personality cults), organized networks do tend to gravitate more strongly toward horizontal modes of communication, practice and planning. Organized networks emerge at times of intense crisis (social, economic, environmental), when dominant institutions fail in their core task: decision-making. As experiments in collective practice conjoined with digital communication technologies, organized networks are test beds for the networked forms of governance that may strive to address our world’s rapid spiral into a planetary abyss.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Is the platform the historically necessary next step, or is it, rather, an anomaly? If tech ubiquity is a given for the foreseeable future, how should we read 1990s-network nostalgia? Is a renaissance of decentralized infrastructure, actively owned and defended by communities, a viable option? What happens if we decide to put in a massive effort to dismantle ‘free’ platforms and their cultures of subconscious comfort, and distribute actual tools, along with the knowledge of how to use and maintain them? Tech has become a vital part of our social life, and should not be outsourced. This can only be overcome if priority is given to ‘digital literacy’ (which has gone down the drain over the past decade). Societies pay a high price for the ease of smartphones. Soon, few will be able to afford the inbuilt vagueness of the network logic. Coordination is required, as are debates with consequences. So far, social media have grossly neglected the development of democratic decision-making software. Roaming aimlessly online will increasingly come to seem uninteresting; the ultimate critique of social media platforms will be that they are boring. We’re not there yet, but the call to exodus grows louder. There will be more urgent and exciting things to be done: Which tools will bring us closer to the bliss of action?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Networks are not destined to remain inward-looking autopoietic mechanisms. Once situations are on the move, we can no longer distinguish network from event, nor which came first – let’s leave such questions to the data analysts (aka historians).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Mushroom at the End of the World</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Anna Lowenhaupt Tsing asks: ‘How does a gathering become a “happening”, that is, greater than a sum of its parts? One answer is contamination. We are contaminated by our encounters; they change who we are as we make way for others. As contamination changes world-making projects, mutual worlds – and new directions – may emerge.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Anna Lowenhaupt Tsing, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Mushroom at the End of the World</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Princeton: Princeton University Press, 2017, p. 27.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.diggitmagazine.com/column/end-academiaedu-how-business-takes-over-again" Name="link" DestinationURL="https://www.diggitmagazine.com/column/end-academiaedu-how-business-takes-over-again" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="https://www.diggitmagazine.com/column/end-academiaedu-how-business-takes-over-again" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.diggitmagazine.com/column/end-academiaedu-how-business-takes-over-again</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//techiavellian.com/intellectual-denial-of-service-attacks" Name="link" DestinationURL="https://techiavellian.com/intellectual-denial-of-service-attacks" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="https://techiavellian.com/intellectual-denial-of-service-attacks" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//techiavellian.com/intellectual-denial-of-service-attacks</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//members.tortoisemedia.com/2019/06/29/8chan/content.html" Name="link" DestinationURL="https://members.tortoisemedia.com/2019/06/29/8chan/content.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="https://members.tortoisemedia.com/2019/06/29/8chan/content.html" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//members.tortoisemedia.com/2019/06/29/8chan/content.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.zephoria.org/thoughts/archives/2013/12/08/coining-context-collapse.html" Name="link" DestinationURL="http://www.zephoria.org/thoughts/archives/2013/12/08/coining-context-collapse.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://www.zephoria.org/thoughts/archives/2013/12/08/coining-context-collapse.html" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.zephoria.org/thoughts/archives/2013/12/08/coining-context-collapse.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.oftwominds.com/blogfeb19/evolution-wins2-19.html" Name="link" DestinationURL="https://www.oftwominds.com/blogfeb19/evolution-wins2-19.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://www.oftwominds.com/blogfeb19/evolution-wins2-19.html" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.oftwominds.com/blogfeb19/evolution-wins2-19.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theguardian.com/commentisfree/2019/aug/11/good-old-days-look-deeper-and-myths-of-ideal-communities-fades" Name="link" DestinationURL="https://www.theguardian.com/commentisfree/2019/aug/11/good-old-days-look-deeper-and-myths-of-ideal-communities-fades" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://www.theguardian.com/commentisfree/2019/aug/11/good-old-days-look-deeper-and-myths-of-ideal-communities-fades" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.theguardian.com/commentisfree/2019/aug/11/good-old-days-look-deeper-and-myths-of-ideal-communities-fades</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634" Name="link" DestinationURL="https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.archeos.eu/collapsologie/" Name="link" DestinationURL="https://www.archeos.eu/collapsologie/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.archeos.eu/collapsologie/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.archeos.eu/collapsologie/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//techcrunch.com/2018/12/23/the-year-social-networks-were-no-longer-social/" Name="link" DestinationURL="https://techcrunch.com/2018/12/23/the-year-social-networks-were-no-longer-social/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://techcrunch.com/2018/12/23/the-year-social-networks-were-no-longer-social/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//techcrunch.com/2018/12/23/the-year-social-networks-were-no-longer-social/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/geert" Name="link" DestinationURL="http://networkcultures.org/geert" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://networkcultures.org/geert" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/geert</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

@@ -134,7 +134,7 @@ understanding and survival of life-worlds.
 
 ## Geocinema 
 
-![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.tif)
+![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.jpg)
 
 <br/>
 
@@ -192,7 +192,7 @@ locations across the planet.
 ## Asunder
 
 ![Fig. 2: Tega Brain, Julian Oliver, Bengt Sjölén, *Asunder*, 2019
-(installation view).](imgs/5.2.tif)
+(installation view).](imgs/5.2.jpg)
 
 <br/>
 
@@ -240,7 +240,7 @@ to say, that the ends and endings are not quite in view.
 ## Deep Steward 
 
 ![Fig. 3: Klaas Kuitenbrouwer, Theun Karelse, *DeepSteward* as part of
-Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.tif)
+Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.jpg)
 
 <br/>
 
@@ -298,7 +298,7 @@ intelligence.
 ## Permaculture Network 
 
 ![Fig. 4: Gary Zhexi Zhang and Agnes Cameron, *Permaculture Network*, 2019
-(screenshot).](imgs/5.4.tif)
+(screenshot).](imgs/5.4.jpg)
 
 <br/>
 
@@ -396,10 +396,10 @@ As Déborah Danowski argues, ‘when the end of the world is reached, an
 entire new world, even if so desired, is impossible.’[^05DragonaNetworksAndLifeWorlds_55] Reprogramming
 or remaking the world is not achievable either, and this is most likely
 a disorientating direction for societies to face in, away from their
-real responsibilities for effecting change. What is still possible,
+real responsibilities for effecting change.[^05DragonaNetworksAndLifeWorlds_56] What is still possible,
 though, is to invent ‘new ways of living with what we have, in the ruins
-of the present world.’[^05DragonaNetworksAndLifeWorlds_56] It is, principally, relationships that need
-to be repaired, not just landscapes, the atmosphere, the climate.[^05DragonaNetworksAndLifeWorlds_57]
+of the present world.’[^05DragonaNetworksAndLifeWorlds_57] It is, principally, relationships that need
+to be repaired, not just landscapes, the atmosphere, the climate.[^05DragonaNetworksAndLifeWorlds_58]
 Returning to the network as a model for understanding the world, from
 this relational perspective, it is not just the nodes, or ends, that
 need to be taken care of; it is the ‘lines’ as well – the connections
@@ -587,6 +587,7 @@ endings.
     many people with way too little”’, *Mediapart blog,* 8 April 2019,
     [https://blogs.mediapart.fr/krystian-woznicki/blog/080419/welcoming-ends-world](https://blogs.mediapart.fr/krystian-woznicki/blog/080419/welcoming-ends-world).
 
-[^05DragonaNetworksAndLifeWorlds_56]: Danowski and Woznicki, ‘Welcoming the Ends of the World’.
+[^05DragonaNetworksAndLifeWorlds_56]: Neyrat, *The Unconstructable Earth*, p. 33.
+[^05DragonaNetworksAndLifeWorlds_57]: Danowski and Woznicki, ‘Welcoming the Ends of the World’.
 
-[^05DragonaNetworksAndLifeWorlds_57]: Buck, *After Geoengineering*, p. 44.
+[^05DragonaNetworksAndLifeWorlds_58]: Buck, *After Geoengineering*, p. 44.

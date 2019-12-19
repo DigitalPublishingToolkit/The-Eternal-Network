@@ -76,7 +76,7 @@ an overview of physically or conceptually interconnected nodes. The *Web
 Stalker* browser (1997) and JODI’s *Map* (1999) are among the most
 celebrated of these net art works.
 
-![Fig. 1: JODI’s Map (1999), http://map.jodi.org/.](imgs/7.backbone.tif)
+![Fig. 1: JODI’s Map (1999), http://map.jodi.org/.](imgs/7.1.jpg)
 
 <br/>
 
@@ -272,7 +272,7 @@ yet included in the archive, but could well be catalogued in the future,
 given our already established network of record labels and their
 contributions.
 
-![Fig. : Neural Archive, Screenshot.](imgs/7.bildsc.tif)
+![Fig. : Neural Archive, Screenshot.](imgs/7.2.jpg)
 
 <br/>
 

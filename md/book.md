@@ -1,7 +1,7 @@
+#Colophon
 
-
-##The Eternal Network: The Ends and Becomings of Network Culture 
-**Edited by Kristoffer Gansing and Inga Luchs**
+**The Eternal Network: The Ends and Becomings of Network Culture**<br/>
+*Edited by Kristoffer Gansing and Inga Luchs*
 
 **Authors**: Clemens Apprich, Johanna Bruckner, Daphne Dragona, Kristoffer
 Gansing, Lorena Juan, Aay Liparoto, Geert Lovink, Alessandro Ludovico,
@@ -1367,7 +1367,7 @@ story of the network truly is never-ending.
 [^04ApprichNeverEndingNetwork_25]: Graham Harman’s blog introduction to object-oriented philosophy
     and how it differs from speculative realism. Graham Harman, ‘brief
     SR/OOO tutorial’, *Object-Oriented Philosophy,* 23 July 2010,
-    [](https://doctorzamalek2.wordpress.com/2010/07/23/brief-srooo-tutorial).
+    <https://doctorzamalek2.wordpress.com/2010/07/23/brief-srooo-tutorial>.
 
 [^04ApprichNeverEndingNetwork_26]: Manuel DeLanda, *Intensive Science and Virtual Philosophy*,
     London: Continuum, 2002, pp. 46f.
@@ -1598,7 +1598,7 @@ understanding and survival of life-worlds.
 
 ## Geocinema 
 
-![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.tif)
+![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.jpg)
 
 <br/>
 
@@ -1656,7 +1656,7 @@ locations across the planet.
 ## Asunder
 
 ![Fig. 2: Tega Brain, Julian Oliver, Bengt Sjölén, *Asunder*, 2019
-(installation view).](imgs/5.2.tif)
+(installation view).](imgs/5.2.jpg)
 
 <br/>
 
@@ -1704,7 +1704,7 @@ to say, that the ends and endings are not quite in view.
 ## Deep Steward 
 
 ![Fig. 3: Klaas Kuitenbrouwer, Theun Karelse, *DeepSteward* as part of
-Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.tif)
+Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.jpg)
 
 <br/>
 
@@ -1762,7 +1762,7 @@ intelligence.
 ## Permaculture Network 
 
 ![Fig. 4: Gary Zhexi Zhang and Agnes Cameron, *Permaculture Network*, 2019
-(screenshot).](imgs/5.4.tif)
+(screenshot).](imgs/5.4.jpg)
 
 <br/>
 
@@ -2499,7 +2499,7 @@ worlds is capable of transcending life itself.
 
 Most importantly, all of these persons were already, through their
 practices – as activists, artists, curators, singers, cooks,
-storytellers, curators, cultural workers, writers, poets, filmmakers,
+storytellers, cultural workers, writers, poets, filmmakers,
 educators, and care workers, among others – conducting their own
 versions of what I had come to call ‘The Councils of the Pluriversal’.
 Amongst all of the experiences I had while developing this research,
@@ -2760,7 +2760,7 @@ an overview of physically or conceptually interconnected nodes. The *Web
 Stalker* browser (1997) and JODI’s *Map* (1999) are among the most
 celebrated of these net art works.
 
-![Fig. 1: JODI’s Map (1999), http://map.jodi.org/.](imgs/7.backbone.tif)
+![Fig. 1: JODI’s Map (1999), http://map.jodi.org/.](imgs/7.1.jpg)
 
 <br/>
 
@@ -2956,7 +2956,7 @@ yet included in the archive, but could well be catalogued in the future,
 given our already established network of record labels and their
 contributions.
 
-![Fig. : Neural Archive, Screenshot.](imgs/7.bildsc.tif)
+![Fig. : Neural Archive, Screenshot.](imgs/7.2.jpg)
 
 <br/>
 
@@ -3551,10 +3551,10 @@ capitalist enclosure. We might go so far as to suggest that it’s in
 these kinds of practices, rather than in manifesto-style calls for open
 access, that ‘commoning’ truly occurs.
 
-![](imgs/8.1.tiff)
-![](imgs/8.2.tiff)
-![](imgs/8.3.tiff)
-![](imgs/8.4.tiff)
+![](imgs/8.1.jpg)
+![](imgs/8.2.jpg)
+![](imgs/8.3.jpg)
+![](imgs/8.4.jpg)
 
 *Fig. 1-4: Roel Roscam Abbing, Pretty Fly for a Wi-Fi, 2014.*
 
@@ -4052,7 +4052,7 @@ systems of oppression go on, there is a need to self-organise opposition
 and find ways to build energy in our communities.
 
 **LJ:** In questioning the spaces that we inhabit, the artwork of Tabita
-Reizaire comes to mind. In *Afro Cyber Resistance* (2014), she draws
+Rezaire comes to mind. In *Afro Cyber Resistance* (2014), she draws
 upon discourses of e-colonialism to show up the internet as a ‘white
 space’. How do you see *Not Found On* in relationship to this? 
 
@@ -4292,7 +4292,7 @@ less a substance than the antithesis of a substance; a paradigm in which
 substance is transformed into a way of being without stable presence or
 meaning.[^10BrucknerMolecularSexandPolymorphicSensibilities_6]
 
-![Fig. 1: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.1.tif)
+![Fig. 1: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.1.jpg)
 
 <br/>
 
@@ -4334,7 +4334,7 @@ rather than a binary structure. The sexbot’s plastic figurations create
 penetrable entities that are imperceptibly but irreversibly changing our
 environment.
 
-![Fig. 2: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.2.tif)
+![Fig. 2: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.2.jpg)
 
 <br/>
 
@@ -4376,7 +4376,7 @@ intra-action matters most in queering our understanding of and
 participation in networked realities and technological transformation,
 moving toward entangled forms of intra-participation.
 
-![Fig. 3: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.3.tif)
+![Fig. 3: Molecular Sex (still), Johanna Bruckner, 2020. 4K Video.](imgs/10.3.jpg)
 
 <br/>
 
@@ -4417,7 +4417,7 @@ forms of sexes and sexualities that might emerge from this quantum cloud
 of biological and environmental progress are still speculative.[^10BrucknerMolecularSexandPolymorphicSensibilities_13]
 
 ![Fig. 4: Quantum Polymorphic Sensibilities. Johanna Bruckner, 2019.
-Installation view. Photo: Astrid Piethan.](imgs/10.4.tif)
+Installation view. Photo: Astrid Piethan.](imgs/10.4.jpg)
 
 <br/>
 
@@ -4473,7 +4473,7 @@ embodiment is their situational embedment in the environment as well as
 their interaction with it, as an embodied cognition.
 
 ![Fig. 5: Quantum Polymorphic Sensibilities, Johanna Bruckner, 2019.
-Performance. Photo: Guillermo Heinze.](imgs/10.5.tif)
+Performance. Photo: Guillermo Heinze.](imgs/10.5.jpg)
 
 <br/>
 
@@ -5478,7 +5478,7 @@ circumference is formed by tracing the curve of a point that keeps
 moving at a constant radius from the middle.
 
 ![Fig. 1: Circle: diagram. OptImager, Wikimedia Commons (2005), CC BY-SA
-3.0.](imgs/12.1.tif)
+3.0.](imgs/12.1.jpg)
 
 <br/>
 
@@ -5507,7 +5507,7 @@ of relation.
 ![Fig. 2: Folded rock units: separated stratigraphy in upper and lower
 plates and restored to pre-folding configuration. In: Basin architecture
 and crustal evolution in the Paleoproterozoic—a field guide for the
-Rodinia conference (2017).](imgs/12.2.tif)
+Rodinia conference (2017).](imgs/12.2.jpg)
 
 <br/>
 
@@ -5520,7 +5520,7 @@ practical experiences and even age differences meant that we each came
 with specific questions regarding both ‘affect’ and ‘infrastructure’.
 
 ![Fig. 3: Diffraction: destructive and constructive interference patterns.
-Lacatosias, Stanner, Epzcaw, Wikimedia Commons (2018), CC BY-SA 3.0.](imgs/12.3.tif)
+Lacatosias, Stanner, Epzcaw, Wikimedia Commons (2018), CC BY-SA 3.0.](imgs/12.3.jpg)
 
 <br/>
 
@@ -5541,7 +5541,7 @@ There were misunderstandings, surprising discoveries, and quite some
 funny jokes too. Meanwhile visas expired, and family members, deadlines,
 and dogs needed to be taken care of.
 
-![Fig. 4: Networks: Paul Baran, On Distributed Networks (1964).](imgs/12.4.tif)
+![Fig. 4: Networks: Paul Baran, On Distributed Networks (1964).](imgs/12.4.jpg)
 
 <br/>
 
@@ -5564,7 +5564,7 @@ to formulate with find companionship in work that affirmatively
 critiques the regimes of the normative, the legible, and the regular.
 
 ![Fig. 5: Paranodes: the negative space of networks. In: Zach Blas,
-Contra-Internet Inversion Practice \#3: Modeling Paranodal Space (2016).](imgs/12.5.tif)
+Contra-Internet Inversion Practice \#3: Modeling Paranodal Space (2016).](imgs/12.5.jpg)
 
 <br/>
 
@@ -5593,7 +5593,7 @@ gender or state). We really need to bend our infrastructural desires in
 other directions.
 
 ![Fig. 6: Mycellium: overlapping mushroom root structure. Sue Van Hook,
-microscopic imaging (2016)](imgs/12.6.tif)
+microscopic imaging (2016)](imgs/12.6.jpg)
 
 <br/>
 
@@ -5611,7 +5611,7 @@ is curious, how hard it is to draw such non-romantic forms of
 togetherness.[^12SneltingOtherGeometries_6]
 
 ![Fig. 7: Lettuce coral: at a deeper location, more discoidal leaves form.
-Scott Boyd, Palau (2006)](imgs/12.7.tif)
+Scott Boyd, Palau (2006)](imgs/12.7.jpg)
 
 <br/>
 
@@ -5647,7 +5647,7 @@ instability, difference... How to think through and with the constraints
 of non-circular togetherness?
 
 ![Fig. 8: Stick chart: Polynesian navigation device showing directions of
-winds, waves and islands. S. Percy Smith (1904).](imgs/12.8.tif)
+winds, waves and islands. S. Percy Smith (1904).](imgs/12.8.jpg)
 
 <br/>
 

@@ -47,7 +47,7 @@ circumference is formed by tracing the curve of a point that keeps
 moving at a constant radius from the middle.
 
 ![Fig. 1: Circle: diagram. OptImager, Wikimedia Commons (2005), CC BY-SA
-3.0.](imgs/12.1.tif)
+3.0.](imgs/12.1.jpg)
 
 <br/>
 
@@ -76,7 +76,7 @@ of relation.
 ![Fig. 2: Folded rock units: separated stratigraphy in upper and lower
 plates and restored to pre-folding configuration. In: Basin architecture
 and crustal evolution in the Paleoproterozoic—a field guide for the
-Rodinia conference (2017).](imgs/12.2.tif)
+Rodinia conference (2017).](imgs/12.2.jpg)
 
 <br/>
 
@@ -89,7 +89,7 @@ practical experiences and even age differences meant that we each came
 with specific questions regarding both ‘affect’ and ‘infrastructure’.
 
 ![Fig. 3: Diffraction: destructive and constructive interference patterns.
-Lacatosias, Stanner, Epzcaw, Wikimedia Commons (2018), CC BY-SA 3.0.](imgs/12.3.tif)
+Lacatosias, Stanner, Epzcaw, Wikimedia Commons (2018), CC BY-SA 3.0.](imgs/12.3.jpg)
 
 <br/>
 
@@ -110,7 +110,7 @@ There were misunderstandings, surprising discoveries, and quite some
 funny jokes too. Meanwhile visas expired, and family members, deadlines,
 and dogs needed to be taken care of.
 
-![Fig. 4: Networks: Paul Baran, On Distributed Networks (1964).](imgs/12.4.tif)
+![Fig. 4: Networks: Paul Baran, On Distributed Networks (1964).](imgs/12.4.jpg)
 
 <br/>
 
@@ -133,7 +133,7 @@ to formulate with find companionship in work that affirmatively
 critiques the regimes of the normative, the legible, and the regular.
 
 ![Fig. 5: Paranodes: the negative space of networks. In: Zach Blas,
-Contra-Internet Inversion Practice \#3: Modeling Paranodal Space (2016).](imgs/12.5.tif)
+Contra-Internet Inversion Practice \#3: Modeling Paranodal Space (2016).](imgs/12.5.jpg)
 
 <br/>
 
@@ -162,7 +162,7 @@ gender or state). We really need to bend our infrastructural desires in
 other directions.
 
 ![Fig. 6: Mycellium: overlapping mushroom root structure. Sue Van Hook,
-microscopic imaging (2016)](imgs/12.6.tif)
+microscopic imaging (2016)](imgs/12.6.jpg)
 
 <br/>
 
@@ -180,7 +180,7 @@ is curious, how hard it is to draw such non-romantic forms of
 togetherness.[^12SneltingOtherGeometries_6]
 
 ![Fig. 7: Lettuce coral: at a deeper location, more discoidal leaves form.
-Scott Boyd, Palau (2006)](imgs/12.7.tif)
+Scott Boyd, Palau (2006)](imgs/12.7.jpg)
 
 <br/>
 
@@ -216,7 +216,7 @@ instability, difference... How to think through and with the constraints
 of non-circular togetherness?
 
 ![Fig. 8: Stick chart: Polynesian navigation device showing directions of
-winds, waves and islands. S. Percy Smith (1904).](imgs/12.8.tif)
+winds, waves and islands. S. Percy Smith (1904).](imgs/12.8.jpg)
 
 <br/>
 

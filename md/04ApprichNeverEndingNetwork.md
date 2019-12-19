@@ -425,7 +425,7 @@ story of the network truly is never-ending.
 [^04ApprichNeverEndingNetwork_25]: Graham Harman’s blog introduction to object-oriented philosophy
     and how it differs from speculative realism. Graham Harman, ‘brief
     SR/OOO tutorial’, *Object-Oriented Philosophy,* 23 July 2010,
-    [](https://doctorzamalek2.wordpress.com/2010/07/23/brief-srooo-tutorial).
+    <https://doctorzamalek2.wordpress.com/2010/07/23/brief-srooo-tutorial>.
 
 [^04ApprichNeverEndingNetwork_26]: Manuel DeLanda, *Intensive Science and Virtual Philosophy*,
     London: Continuum, 2002, pp. 46f.

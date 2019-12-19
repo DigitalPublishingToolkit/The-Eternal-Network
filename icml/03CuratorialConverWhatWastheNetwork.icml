@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What Was the Network?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A Conversation on the Possibilities and Limits of the Network Imaginary</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Clemens Apprich, Daphne Dragona, Geert Lovink, and Florian Wüst - Conversation moderated by Kristoffer Gansing</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On August 6, 2019, the curatorial advisors of the transmediale 2020 exhibition, ‘The Eternal Network’, gathered at the festival’s offices in Berlin for a conversation on the status of network culture and theory today. Starting from the question ‘What was the network?’, the conversation explored the multiple trajectories of networks within cybernetics, art and philosophy, also taking the limits of networks into account. This included a reconsideration of the role of alternative and critical networks in today’s widespread digitalization, with its data-centric platform economy and the techno-cultural changes wrought by artificial intelligence.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Kristoffer Gansing:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The first question I would like to address is: ‘What was the network?’ With this we can also think about whether we are in a moment in which it is possible to historicize networks, and if so, why we would do that.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Florian Wüst</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: What I find quite provocative is the past tense: ‘What </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>was</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> the network?’ In the discourse around the digital, we have indeed moved somewhere else under the conditions of surveillance capitalism and platforms. We are in a totally different situation compared to what we historically refer to as the networks of the 1990s, when there was big hope for a functioning decentralization of information and agency. But if I look at other fields, I have the feeling that networks haven’t even been built, so how could they have dissolved? Areas where people haven’t yet managed to come together for joint action beyond small groups or neighborhoods. Take for example the many urban grassroots initiatives in Berlin, which are only recently making efforts to create larger networks in order to fight gentrification. I think there is an interesting gap between how in digital culture and theory there is the perception that we are beyond something, that the network has already been lost or corrupted, and how in other fields, in practice, we are only beginning to reach the next stages of networked collaboration and communication.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Daphne Dragona:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> When I first read the question, ‘What was the network?’, I thought rather of the architectural topology that was not realized, the dream of the decentralized or even distributed architecture of the network, that didn’t come into being. The dream of a network that was in reality taken over by the more sovereign and mainstream infrastructures. And now there is this question that always takes me back to the expectations of the 1990s, and the first platforms – IRC, Usenet. All these expectations were there – so what happened, what changed? The approach of Manuel Castells, for example, was all about how communication networks would bring change to society, politics, economy, and culture. And this change did happen, but not how it had been imagined. Now we also see the dark sides of the network.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On a personal level, when I think back to the late 90s, early 2000s, I still remember how important it was that connectivity had come along. I was in Athens at that time, working for a festival of art and new technologies, as we described them then, Medi@terra. At first the festival was Greek, then it expanded to include the Balkans, and then became international. The festival grew thanks to the networks that we built with other festivals and centers in the field, thanks to the research we could do online and to the interest that audiences and funding bodies showed in the emergence of digital networks. For me, the network was this potentiality. But now it doesn’t seem so possible to believe in any longer.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Geert Lovink:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Let’s talk about the network question. My essay is titled ‘Requiem for the Network’ but the working title was ‘Network Renaissance’. As you can see, I am in two minds: Will the network vanish or reappear? There’s a certain reluctance of a particular generation (maybe my generation and the generation that followed) to write our political media history in the same way as the 1968 generation wrote theirs. There used to be a collective obligation to write one’s history in order to pass it on to the next generation but I don’t see that really happening at the moment. It’s not something that seems to come naturally any longer. Maybe due to doubt about the concept of History itself. Instead of reassessing the history-in-the-making of our networks, movements, communities, and events, digging into memories and recounting anecdotes, we tend to reflect on the concept itself.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Clemens Apprich:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In media studies we love these kinds of past-tense questions. However, the current debate about digitalization seems to be completely ahistorical, as though the ‘digital’ had only just entered the stage. This historical oblivion is particularly true when it comes to networks and their implementation in digital media industries. Yet reflecting on the past doesn’t necessarily imply outdated historicism, in the sense of understanding a specific time in history that leads straight to the present. What I’m interested in is media genealogy, which is nonlinear and eclectic. Walter Benjamin calls this ‘historicity’, in contrast to historicism, or ‘</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Jetztzeit</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>’ (‘here-and-now’) – a term that perfectly fits the ‘eternal present’ of this year’s exhibition, ‘The Eternal Network’. What he means by this is that two widely disparate historical events may have more in common than two events close together in time. This historicity is ever-present, aligning the past with the here and now – and so also with the future. What Daphne said about the looming dream of the network and its potentiality for today is a good depiction of such a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Jetztzeit</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>KG:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Is there potential for a strange return of the network within digitalization or is this just the nostalgic projection of a previous network generation? Or, even with a hint of such nostalgia, could there still be value in this idea vis-à-vis how digitalization has become the new catch-all term, and seems to operate on an even vaster scale than the network did or does.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: When we talk about digitalization, we are of course talking about a decades- or even centuries-old development. But we don’t have to go through the whole history in order to reflect on it. Making the present intelligible through past events can be very episodic. This is also an interesting point about the network metaphor – that it has this untimeliness to it. It pops up in the 90s to make sense of quite different socioeconomic developments, such as a new worldwide communication infrastructure with the hope for democratic expression and the latest push toward a fully globalized capitalism. With this, the network becomes an all-encompassing, all-explaining concept, from food chains to supply industries to nervous systems. Patrick Jagoda has called this the ‘network sublime’: the network is everything and nothing.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See, for instance, Patrick Jagoda, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Network Aesthetics</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Chicago: The University of Chicago Press, 2016.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> And maybe that’s the best thing that could have happened to it – to become this weird and untimely concept. Like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Jetztzeit</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, it can always actualize, it can connect to different types of pasts and futures.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>And the fascinating thing in today’s context is that this ‘becoming a network’ or ‘network-becoming’ is also about becoming invisible. Most recent debates about digitalization tend to be dominated by debates about platforms. But it is still the network, at least from my perspective, that is the driving force – the motor – behind most of digital culture’s phenomena. Even though digital capitalism has solidified into platforms over the last decade, the inner working of these platforms, the way they produce value via data extraction and interpretation is still based on a network logic.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>GL:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> It might be interesting to look at this problem from the perspective of contemporary art. In the field of contemporary art in the 90s, the network played an important role. Maybe it wasn’t that technological, or focused on the internet per se, but it was still very present. Cities, institutions, scenes, and groups were in constant communication and comparison with each other: Frankfurt, Köln, London, New York, Berlin… What Daphne said about Athens is a typical example. Whether those networks were internet-driven or not wasn’t the main issue. How then do we look at the reluctance to write history from that perspective?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>KG</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: Maybe this also has something to do with the inherently anti-narrative stream of thinking within new media and network theory, where linear representation is not an important issue. What was usually on its main agenda was how you acted or performed in a given project, rather than how you narrated it. The reluctance to write this history therefore also comes from the kind of anti-representational thinking inherent to working with and within networks, and the wish for forms immanent to the form itself.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>DD</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: But why do you think that we need to write this history in the first place? Once you write the book, you capture, generalize, Westernize. Who would be the ones to write that history, and why? Who and what would be left out? There is always an issue between the topographies and the topologies of networks. The locations considered to be important on the map end up defining the strong nodes of the network.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>KG:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> I think that this also relates to the question of what we can actually learn from these histories of ‘Critical Internet Cultures’, and relatedly, what the blind spots of the contemporary moment are with respect to this question. Clemens for instance co-edited a book about ‘forgotten futures’,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Clemens Apprich and Felix Stalder (eds), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Vergessene Zukunft. Radikale Netzkulturen in Europa</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Bielefeld: transcript Verlag, 2012.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> pointing to the idea that we should perhaps also consider net cultures that never happened or were never heard about. This prompts another question as to the limits of networks.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Yes, but the problem remains even with speculative accounts about </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>the</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> history of networks. Any history changes with your location and your point of view. It’s interesting to see, for example, how the network has been discussed and theorized in Latin America. ‘</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>La red</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>’, rather than ‘network’, evokes a vastly different understanding and imaginary about what a connection is. The work of Tania Pérez-Bustos, an anthropologist from Bogotá, describes how this term [which translates to ‘the web’ in English] correlates with techniques of weaving, a performative act.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Discussion during a workshp in Bogotá, Colombia in February 2015. For a report of the workshop see: Sara Morais dos Santos Bruss, ‘Making Change – A Report from Bogotá’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>spheres – Journal for Digital Cultures</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 2 (2015), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://spheres-journal.org/making-change-a-report-from-bogota/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Such an understanding sparks an alternate history of the network with all its untold and unrealized threads that we are trying to weave together here. I guess in the end we are all caught up in our own network histories with their idiosyncrasies and blind spots.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>DD:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> It depends how you see it. In the past there was a lot of discussion about networks being ‘walled gardens’. One could say that what lies beyond one’s network is difference, because networks are based on sameness. Other worlds, opinions, and realities are kept away from you. Networks are not porous. They are vulnerable, as Geert has discussed elsewhere, but they are not porous; you cannot easily break through them.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>FW:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> It’s the same with the term ‘community’. There is something exclusive about it, when it should rather be inclusive. In his theory of the urban commons, Greek author and activist Stavros Stavrides problematizes the often privatized or gated character of communities. Without the distribution of power, commoning quickly becomes enclosure, Stavrides argues.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See, for instance, Stavros Stavrides, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Common Space. The City as Commons</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Chicago, IL: University of Chicago Press, 2016 and Stavros Stavrides, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Common Spaces of Urban Emancipation</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Manchester, UK: Manchester University Press, 2019.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> He instead advocates for common spaces that aren’t defined by boundaries and that remain open for newcomers. Such processes require radically new social relations, based on equality and solidarity. Stavrides talks primarily about the urban environment as well as social practice, both of which expand into digital space, or vice versa, are increasingly organized by and in interaction with digital infrastructures.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Thinking about the limits of networks and what lies beyond them, I am made to think of the system, which, somehow, was the first victim of the network. Before the 90s, the ‘system’ not the network was the dominant concept to describe society. However, with an increasingly globalized and networked world, the idea of social groups, institutions, and even the nation state as contained systems broke up. The system began to leak, and opened up into myriads of networks. For some this had a liberating effect, but it also created problems. Beyond a network is always another network. As Wendy Chun says, the network is such a compelling concept, because with it, or better within it, you are always searching and never finding.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Wendy Chun, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Updating to Remain the Same</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge, MA: MIT Press, 2016, p. 29ff.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> You constantly zoom in and zoom out, switching from one network to another. The network gives you the opportunity or even the excuse not to make a decision, not to define an inside and outside, not to look for an exit. You are trapped within the network.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Yet as Deleuze and Guattari demonstrated, every repetition has the potential of difference – for bifurcation. The things that seem to be especially repetitive are those that have the most potential to produce something new. What I like about this idea is that bifurcations happen all the time. This is what I’m trying to get at in my essay for this volume: that the network still has this potential; that it can connect different times and places. I want to argue against a reticular pessimism – that is, the idea that everything is trapped and captured within a network. You simply cannot capture everything.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>KG:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> That difference may always be generated is an important point but there might be a trap within this Deleuzian perspective in terms of its politics. I’m thinking about the hard edges of networks, in terms of class, race, gender, and their related issues, which are so tangible today. Despite the use of networked, supposedly horizontal social media, exclusions have far from disappeared. Everybody is on the platform, but it became a tribalized space. I guess this is a question about practice and possibility – of what, ultimately, is at stake in the network question today?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The idea is precisely not to hide nor dissolve political categories, such as class, race, and gender, in some kind of network sublimity, but to make the edges visible and tangible, in order to enable bifurcations.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>GL:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> I still think in mass psychological terms that the network is one of many possible ways to organize the social. In the same way as there are cells, groups, tribes, communities, unions, and political parties. Maybe this list will change and grow in the decades to come. Maybe some forms of social organization will return. Shall we envision and design new forms of the social that have not yet existed, rather than referring to the old forms we are familiar with?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From Social to Neural, with and Beyond Networks</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>DD:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> It is also important to consider what the dominant model of a network is for each era. Today, discussion has shifted to the area of artificial intelligence, with the dominant model being the artificial neural network. This brings us to topologies that are much more complicated, much more opaque, compared to the informational and social ones we have met up to now, even if all of these somehow intersect. I feel that this affects the discourse on networks, for example when we are talking about the Smart Home or the Smart City. Because these environments, the environments that we live in, are being adapted based on how these machines operate; how these machines see, read, and sense the world.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The field of network analytics, which is the driving force behind most of today’s applications in AI and machine learning, actually predefines how we see the world, how things are filtered for us, and also how the world sees us. Think about recommendation systems, which follow a very crude network logic that tells you what you should like is what others like you like, or that the friend of your friend should also be your friend. This leads to the much-discussed filter bubbles and echo chambers. But it doesn’t have to be that way, we are not talking about a natural law. We could come up with different network logics. The problem with the dominant one is that it has become invisible and therefore acts as if it is indeed natural.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>DD:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The invisibility of the network is also what made us stop referring to it in a way. That’s a bit like what Wendy Chun discusses in her book, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Updating to Remain the Same: Habitual New Media</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. The less we see or pay attention to networks or technologies, the less we name them and reflect upon them. But that doesn’t mean that networks do not play a significant role. Actually, they play an even more significant role as we become the machines or the networks. They define our daily lives and habits.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Exactly. The network has become so pervasive that everyone follows its logic. But how many people actually know about TCP/IP or other internet protocols, for example? Even in media studies I would say that the majority of scholars do not know how the internet works, let alone how it came into being. Just because it works, shouldn’t stop us from critically reflecting on it. Here a media genealogical understanding might be advantageous.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>GL:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In the late 1990s network theory turned into network science, and then stopped. I am not saying that people have stopped thinking about networks but this specific trajectory stalled. Castells’s network society has not been widely adopted. Lately I’ve been in contact with some people in the European Commission in Brussels who are fierce promoters of network science. I challenged them to prove whether this science is alive and has any relevance. What has it produced lately? There’s a desire to bring scientists on board. The whole world of social networks has become so dark, fluffy, and messy to them that they felt they needed to bring scientists back on board to get rid of all the myths once and for all – the commercial interests and the hidden forces. In this view the network is a mysterious invisible power that produces fake news and then produces conspiracies.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the social sciences more and more people say that we need to introduce technical solutions, because according to them, our understanding of society has completely failed. But we are already caught in a complex kind of technical, bureaucratic society: this is our reality. So this limiting of the horizon, it’s quite real. It does not open up discussions about alternatives at all. I wish there was another type of network theory that could now thrive. Then, the discussion around this table would be very different. What would have happened if decentralized networks would have been programmed to resist any form of centralization?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>KG:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This relates to what I asked about the limits of networks. What you describe is one limit, concerning just one particular way of dealing with or thinking about networks. Couldn’t we say that actually the limits of network science, as with many other models of networks, are linked with this typical image of the network lines and nodes, which constitutes a flat ontology, where on the one hand everything is possible, but on the other everything is traced and mapped. When we talk about invisibility, it seems like we are talking not about the usual question of scale, but about a kind of multiversal thinking, which is actually often lacking in network thinking, especially as we move into the age of AI based on deep learning and neural networks. Fake news, propaganda, and so on, they all, in their banality, point to many hidden networks that are operating at the same time in order to produce the general network effect. This multiversal operation is what makes new network science extremely successful within, for example, the manipulation of the election process in the US.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> An interesting and somehow built-in ‘limit’ of the network in relation to AI and machine learning lies in the very beginning of cybernetics. As Orit Halpern has discussed, the cybernetic vision of Warren McCulloch and Walter Pitts, who theorized the possibility of an artificial neural network in 1943, led them to a computational rationality, which was no longer based on reason.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Orit Halpern, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Beautiful Data: A History of Vision and Reason since 1945</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Durham, NC: Duke University Press, 2015.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As a consequence, the network, in their view, turns psychotic; it leads to an overproduction of meaning, an unreasonable situation in which any form of symbolic closure is no longer relevant. This is the situation we find ourselves in today: artificial neural networks promote a hyper-inductive approach and, at the same time, dump the idea of symbolic reasoning. Just look into the data and the rest will follow. But it’s still people who build these models, and inevitably, they implement their very specific and biased understanding of what they want to do with the data. You can’t just dissolve this symbolic baggage in a supposedly flat ontology or hide it in network scientific discourse – as psychoanalysis has shown over and over again, every time you try to repress the symbolic, it reemerges somewhere else. So it comes as no surprise if artificial neural networks discriminate along the lines of a socially, that is symbolically unjust system. They are not so unreasonable after all, but follow the biases we produce as a society.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>GL:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This genre of scientific approach does dominate, even though it itself is invisible. This approach is not talked about, it is just translated into software interfaces, APIs, you name it. And then millions or billions of people are confronted with by them. But the thing itself is outside of the frame, and maybe it is necessary to remind everybody that the hard network science approach is extremely successful. It hasn’t moved on conceptually, and has categorically refused to face other neighboring approaches. And it is in the full swing of implementation. That’s why many people may be reluctant to say the network is dead because it’s so obviously not.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Yes, that’s exactly the point. I would just disagree on one point: I don’t think that these network models are out of reach; they are not black-boxed, as is often claimed to be the case. If you want to know more about neural networks or machine learning methods, you can, for example, download and use Google’s TensorFlow platform. Of course, you might object that this in itself is a technical framework, that for most people it is still out of reach. But for people in media studies, the arts, or activism, who want to engage with these debates, I don’t see why they shouldn’t take a crash course in machine learning offered by Google.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>DD:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> We can go on having the discussion around the black-boxing of technology forever. I think this is a multifaceted issue. It depends on what exactly we are discussing. When you buy a product that is based on AI, they won’t tell you how exactly it operates based on voice recognition and how it will be used by advertisers. The term black-boxing is still prevalent, because users once again don’t know what is happening with their data. At least that’s how I understand it, in the case of devices like Alexa. I was reading recently that Alexa will be used to perform health care tasks. Will the user be informed about how their health-related data will be used and by whom?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>CA:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> I think, Alexa, Siri, or Google Assistant are good examples for extending the notion of the black box. After all, when it was conceptualized in cybernetics, it didn’t mean that we shouldn’t touch it. On the contrary, the black box was introduced as a methodological tool in order to experiment with complex systems. So why not experiment with Alexa, Siri, and co.? This can happen on a technical, as well as on an artistic, theoretical, or even legal level. We should get our hands dirty if we want to formulate a critique of these systems.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>DD:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Maybe we need to consider the role of algorithmic decision-making and automation in relation to human decision-making. When it comes to social networks or cultural networks or how we work together, it’s basically up to us to what extent we are able to build networks where we acknowledge the importance of difference and escape the creation of closed worlds.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>KG:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> There is a suggestion by Tiziana Terranova, quoted in your text, Geert, of shifting the idea of connectionism from our present model to quantum entanglement. It’s a very speculative proposal where she is saying that this could also produce ‘spooky’ results.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>GL:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> You can see here that networks are based on uncanny experiences. They become centralized through the endless production of sameness. Certain dating apps play with that. Most of them produce a boring repetition of sameness: you provide the apps with your specifications and it will look for matches. But there are other logics. For instance, in the very beginning, during the brief period of locative media, people would encounter others purely based on location. And because of this, matching became much more random. That’s what I thought of when Terranova spoke of ‘spooky’ results. The eternal return of the same can be broken up.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//spheres-journal.org/making-change-a-report-from-bogota/" Name="link" DestinationURL="http://spheres-journal.org/making-change-a-report-from-bogota/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://spheres-journal.org/making-change-a-report-from-bogota/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//spheres-journal.org/making-change-a-report-from-bogota/</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

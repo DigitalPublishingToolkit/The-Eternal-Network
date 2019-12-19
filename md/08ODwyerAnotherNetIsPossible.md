@@ -422,10 +422,10 @@ capitalist enclosure. We might go so far as to suggest that it’s in
 these kinds of practices, rather than in manifesto-style calls for open
 access, that ‘commoning’ truly occurs.
 
-![](imgs/8.1.tiff)
-![](imgs/8.2.tiff)
-![](imgs/8.3.tiff)
-![](imgs/8.4.tiff)
+![](imgs/8.1.jpg)
+![](imgs/8.2.jpg)
+![](imgs/8.3.jpg)
+![](imgs/8.4.jpg)
 
 *Fig. 1-4: Roel Roscam Abbing, Pretty Fly for a Wi-Fi, 2014.*
 
