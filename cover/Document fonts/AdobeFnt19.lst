@@ -1,0 +1,29 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OCRAStd
+FamilyName:OCR A Std
+StyleName:Regular
+MenuName:OCR A Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:OCR A Std
+WritingScript:Roman
+OutlineFileName:\OCRAStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30268
+FileModTime:1493817608
+DesignSize:120
+NameArray:0,Mac,4,OCR A Std
+NameArray:0,Win,1,OCR A Std
+%EndFont
+
