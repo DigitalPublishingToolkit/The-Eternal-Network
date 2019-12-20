@@ -683,7 +683,7 @@ audience. Calls for better governance of software projects are also
 ongoing in FLOSS communities more widely. The development of codes of
 conduct (a key document for Fediverse instances to lay out their vision
 of their community and politics) was introduced in various FLOSS
-communities in the early 2010s, in response to systematic misogyny and
+communities in the early 10s, in response to systematic misogyny and
 the exclusion of minorities from FLOSS spaces both on- and offline.[^13MansouxRoscamAbbingSevenTheses_29]
 Codes of conduct also serve the need for generative forms of conflict
 resolution across cultural and language barriers.

@@ -38,7 +38,7 @@ Daphne Dragona
 <a href='ch007.xhtml'>**There Are Words and Worlds That Are Truthful and True**</a><br/>
 Luiza Prado de O. Martins
 
-##Human, Nonhuman and Networks In Between
+##Human, Nonhuman and Networks in Between
 
 <a href='ch008.xhtml'>**Network Topologies: From the Early Web to Human Mesh Networks**</a><br/>
 Alessandro Ludovico

@@ -74,7 +74,7 @@ are becoming visible, it might be time to readdress the network
 question, which is ultimately about future models of sociality,
 technology, and politics, in societies after globalization.
 
-## The Network Is Everlasting
+## The Network is Everlasting
 
 In 1967, Robert Filliou and George Brecht published a poem in which they
 stated that ‘the network is everlasting’.[^02GansingIntroduction_4] This was a piece of
@@ -114,13 +114,13 @@ network idealism that emerged in the twentieth century – the network
 idea, as a positive, organizing social factor, if you will – as well as
 what could be called the ‘actually existing’ network culture that
 co-evolved with the technical network of the internet and the World Wide
-Web, during the 1990s and beyond. The book and exhibition each attempt
+Web, during the 90s and beyond. The book and exhibition each attempt
 to explore the limits of networks, and of ‘the network’ – as, at once, a
 cultural and aesthetic imaginary, as well as a technological form –
 seeking forgotten and potential futures, with or without networks.
 Particular attention is paid to the legacies of a certain brand of
 critical internet and network culture that developed in Europe (and
-beyond) throughout the 1990s, offering alternatives to the
+beyond) throughout the 90s, offering alternatives to the
 entrepreneurial ideals and solutionism of Silicon Valley.
 
 ## From Networks to Networlds
@@ -244,7 +244,7 @@ In the final section, ‘Endings and New Becomings’, Geert Lovink offers
 an impassioned ‘Requiem for the Network’, reflecting on the possible
 death not only of network culture, but also the particular brand of
 critical and autonomous net cultures for which he himself helped to
-advocate from the mid-1990s onwards. As is fitting, he doesn’t stay with
+advocate from the mid-90s onwards. As is fitting, he doesn’t stay with
 the nostalgic resentment of the aging internet critic: instead, by
 introducing interviews, he turns the piece into a conversation with
 multiple networked voices, offering up further perspectives on the fate
@@ -292,7 +292,7 @@ maintaining networks.
 ## ‘Digitalization’ – Sounds Like a 90s Party
 
 It might seem a bit retro to be taking up the discussion of networks
-today, as something more properly belonging to the 1990s along with
+today, as something more properly belonging to the 90s along with
 Manuel Castell’s thesis on *The* *Rise of the Network Society*,[^02GansingIntroduction_7]
 actor-network theory, films such as *The Matrix*, and of course the mass
 popularization of the internet through the World Wide Web. Today, even
@@ -301,10 +301,10 @@ come to figure as a hidden technical layer, rather than as something
 whose discussion is, in itself, a cultural force. Meanwhile, however,
 many other buzzwords and phenomena of thirty years or so ago are now
 re-emerging, into what could well be called digitalization’s normative
-phase. In many ways, the 1990s are back, or so it seems – only look at
+phase. In many ways, the 90s are back, or so it seems – only look at
 the kind of topics that are at the forefront of today’s digital culture.
 Virtual reality, immersion, artificial intelligence: all as present as
-they were in the early multimedia years of the 1990s, and again in the
+they were in the early multimedia years of the 90s, and again in the
 new millennium’s first five years of ‘new media’ hype. Of course, this
 time around, there are differences in how those terms are used and
 understood, as well as in the technical realities behind them. The

@@ -134,9 +134,6 @@ understanding and survival of life-worlds.
 
 ## Geocinema 
 
-![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.jpg)
-
-<br/>
 
 Asia Bazdyrieva, Alexey Orlov, and Solveig Suess initiated the
 *Geocinema* project in order to examine how planetary scale sensory
@@ -154,6 +151,10 @@ distributed cinematic apparatus’ which can be used to remind us that
 there is not one Earth, but many, ‘always composite \[…\] stitched
 together into a montage of the world’[^05DragonaNetworksAndLifeWorlds_25] – *Geocinema* comprises
 multiple angles, edits, and viewings.
+
+![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.jpg)
+
+<br/>
 
 For the production of the work the team conducted lengthy field trips
 and in-depth research, exploring the planetary network of
@@ -191,10 +192,6 @@ locations across the planet.
 
 ## Asunder
 
-![Fig. 2: Tega Brain, Julian Oliver, Bengt Sjölén, *Asunder*, 2019
-(installation view).](imgs/5.2.jpg)
-
-<br/>
 
 In their project *Asunder,* Tega Brain, Julian Oliver, and Bengt Sjölén
 address the representation and engineering of the Earth via an
@@ -216,6 +213,11 @@ repurposed to include a wider diversity of agendas and perspectives, and
 to keep in mind life-forms other than the human. This is a call for a
 rethinking of the ‘biases and scopes’ of what ‘success and failure’ are
 considered to be, when it comes to technologies of geoengineering.[^05DragonaNetworksAndLifeWorlds_33]
+
+![Fig. 2: Tega Brain, Julian Oliver, Bengt Sjölén, *Asunder*, 2019
+(installation view).](imgs/5.2.jpg)
+
+<br/>
 
 *Asunder* is a project that, while speculative in character, is based on
 real data drawn from specific regions, arising from a climate modeling
@@ -239,10 +241,6 @@ to say, that the ends and endings are not quite in view.
 
 ## Deep Steward 
 
-![Fig. 3: Klaas Kuitenbrouwer, Theun Karelse, *DeepSteward* as part of
-Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.jpg)
-
-<br/>
 
 *Machine Wilderness,* an art and science initiative connected to the
 *FoAM* network[^05DragonaNetworksAndLifeWorlds_38] and initiated by Theun Karelse speaks of
@@ -251,6 +249,11 @@ disturb habitats and crush biodiversity’.[^05DragonaNetworksAndLifeWorlds_40] 
 technologies are human-centered in the first place, not taking in mind
 the complexity, biodiversity and different forms of energy of the living
 environment.
+
+![Fig. 3: Klaas Kuitenbrouwer, Theun Karelse, *DeepSteward* as part of
+Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.jpg)
+
+<br/>
 
 *Machine Wilderness*, as the name implies, aims to bring wilderness
 again to the center of attention, a notion that might be thought as
@@ -297,11 +300,6 @@ intelligence.
 
 ## Permaculture Network 
 
-![Fig. 4: Gary Zhexi Zhang and Agnes Cameron, *Permaculture Network*, 2019
-(screenshot).](imgs/5.4.jpg)
-
-<br/>
-
 The potential of networks to empower wilderness is what drove Gary Zhexi
 Zhang and Agnes Cameron to develop the *Permaculture Network*
 project.[^05DragonaNetworksAndLifeWorlds_47] While they were the artists-in-residence of the
@@ -313,6 +311,12 @@ has self-rewilded, an ideal situation in terms of ecological
 conservation and permaculture, however this is because it is part of
 Area C of the West Bank, where Palestinians are not allowed to
 build.[^05DragonaNetworksAndLifeWorlds_48]
+
+![Fig. 4: Gary Zhexi Zhang and Agnes Cameron, *Permaculture Network*, 2019
+(screenshot).](imgs/5.4.jpg)
+
+<br/>
+
 
 Social and network infrastructures, technological and living systems,
 political and cultural asymmetries are all featured in this project, in

@@ -153,7 +153,7 @@ Self-organization from below is the precise opposite of smooth
 interfaces, automated imports of address books and algorithmic
 ‘governance’ of one’s news and updates. Self-determination is not
 something you can download and install for free. During the turbulent
-1990s, centralized information systems lost their power and legitimacy;
+90s, centralized information systems lost their power and legitimacy;
 but instead of smaller networks that claimed to be more democratic, and
 – in theory – to promote people’s autonomy and sovereignty, all we got
 was ever larger and more manipulative monopolistic platforms.
@@ -388,13 +388,13 @@ How did this *Netzvergessenheit*, this forgetfulness towards networks,
 occur? Once, when a network became too big, it was supposed first to
 disintegrate, then to regroup, then to replicate its structure at a
 higher, or meta level to create a ‘network of networks’. For those
-around in the ‘emerging’ 1990s, some of these dynamics were patently on
+around in the ‘emerging’ 90s, some of these dynamics were patently on
 display. These days, the foundational network principles –
 decentralization, distribution, federation – still sound idealistic and
 magnificent, yet more unreachable than ever before. Historically
 speaking, the trouble started right at the height of their influence.
 When the internet population started to grow exponentially in the late
-1990s to early 2000s, diversification reached a critical point, as users
+90s to early 00s, diversification reached a critical point, as users
 started to flock to the same websites. Conceptually speaking, Web 2.0
 began with ‘scale-free networks’ that exhibited a power-law degree of
 distribution. The introduction of this term marked a paradigmatic shift,
@@ -419,7 +419,7 @@ Similarly, in the case of actor-network theory, it simply could not
 compute the ugly side of social media platforms. None of this was
 supposed to happen, even as the political-economy blind-spot of the
 ‘mapping-without-a-cause’ Latour school became blatantly evident. From
-the late 1990s onwards, it was increasingly clear that academics and
+the late 90s onwards, it was increasingly clear that academics and
 theorists were no longer capable of keeping up with Silicon Valley’s
 hypergrowth strategy, as its venture capitalists quietly financed the
 move from neoliberal markets to the creation of monopolies by ‘breaking
@@ -623,7 +623,7 @@ abyss.
 
 Is the platform the historically necessary next step, or is it, rather,
 an anomaly? If tech ubiquity is a given for the foreseeable future, how
-should we read 1990s-network nostalgia? Is a renaissance of
+should we read 90s-network nostalgia? Is a renaissance of
 decentralized infrastructure, actively owned and defended by
 communities, a viable option? What happens if we decide to put in a
 massive effort to dismantle ‘free’ platforms and their cultures of

@@ -64,7 +64,7 @@ and the techno-cultural developments of networks.
 ## Early Utopia: Revealed Topologies and Personal Networks 
 
 In the first decade of the public and then mass internet (early 90s to
-early 2000s) the visualization of the network structure represented the
+early 00s) the visualization of the network structure represented the
 new underlying digital structure that was forming behind the visual
 appearance of single pages (typically shown as browser content). The
 lack of any accurately compiled topologies, due to the constant growth

@@ -1,24 +1,32 @@
-<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
-<meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The List Serves</dc:title>
-<meta refines="#epub-title-1" property="title-type">main</meta>
-<dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2017-02</dc:date>
+---
+<dc:identifier id="epub-id-1">
+Item-id: ISBN EPUB: 978-94-92302-45-8</dc:identifier>
+<meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5"></meta>
+<dc:title id="epub-title-1">The Eternal Network:The Ends and Becomings of Network Culture
+</dc:title>
+<meta refines="#epub-title-1" property="title-type">The Eternal Network</meta>
+<dc:publisher>Institute of Network Cultures, Amsterdam, and transmediale
+e.V., Berlin, 2020</dc:publisher>    
+<dc:date id="epub-date">2019-12</dc:date>
+<dc:creator id="epub-creator-0">Editors: Kristoffer Gansing and Inga Luchs
+ </dc:creator>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">Kenneth C. Werbin</dc:creator>
-<meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
-<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-5">Leonieke van Dipten</dc:contributor>
-<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
-<dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
-<dc:subject>Lists</dc:subject>
-<dc:description>PUBLICATION SYNOPSIS</dc:description>
+<meta refines="#epub-creator-0" property="role" scheme="marc:relators"></meta>
+<dc:contributor>**Authors**: Clemens Apprich, Johanna Bruckner, Daphne Dragona, Kristoffer
+Gansing, Lorena Juan, Aay Liparoto, Geert Lovink, Alessandro Ludovico,
+Aymeric Mansoux, Rachel Dwyer, Luiza Prado de
+O. Martins, Roel Roscam Abbing, Femke Snelting, and Florian Wüst.</dc:contributor>
+<dc:contributor>**Editorial coordination**: Tabea Hamperl</dc:contributor>
+<dc:contributor>**Copy-editing**: Hannah Gregory and Rebecca Bligh</dc:contributor>
+
+<dc:contributor>**Cover design**: The Laboratory of Manuel Bürger
+(Simon Schindele, Manuel Bürger)</dc:contributor>
+
+<dc:contributor id="epub-contributor-1">Barbara Dubbeldam</dc:contributor>
 
 
+Abstract:   ‘The network is everlasting’ wrote Robert Filliou andGeorge Brecht in 1967, a statement that, at first glance,still seems to be true of today’s world. Yet there arealso signs that the omnipresence of networks is evolvinginto another reality. In recent times, the limits ofnetworks rather than their endless possibilities havebeen brought into focus. Ongoing media debates about hatespeech, fake news, and algorithmic bias swirl into agrowing backlash against networks. Perhaps it is time toreconsider the contemporary reach and relevance ofthe network imaginary.Accompanying transmediale 2020 End to End’s exhibition‘The Eternal Network’, this collection gathers contributionsfrom artists, activists, and theorists who engagewith the question of the network anew. In referencingFilliou’s eternal notion, the exhibition and publicationproject closes the loop between pre- and post-internetimaginaries, opening up possible futures with and beyondnetworks. This calls many of the collection’s authors toturn to instances of independent and critical net culturesas historical points of inspiration for rethinking,reforming, or refuting networks in the present.Contributors: Clemens Apprich, Johanna Bruckner, DaphneDragona, Kristoffer Gansing, Lorena Juan, Aay Liparoto,Geert Lovink, Alessandro Ludovico, Aymeric Mansoux,Rachel O‘Dwyer, Luiza Prado de O. Martins, Roel RoscamAbbing, Femke Snelting, and Florian Wüst.
 
-
-
-
-
-
+Keywords:   50 keywords for search and indexing
+Rights: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
+...

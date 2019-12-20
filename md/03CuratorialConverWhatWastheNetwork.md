@@ -43,7 +43,7 @@ why we would do that.
 *was* the network?’ In the discourse around the digital, we have indeed
 moved somewhere else under the conditions of surveillance capitalism and
 platforms. We are in a totally different situation compared to what we
-historically refer to as the networks of the 1990s, when there was big
+historically refer to as the networks of the 90s, when there was big
 hope for a functioning decentralization of information and agency. But
 if I look at other fields, I have the feeling that networks haven’t even
 been built, so how could they have dissolved? Areas where people haven’t
@@ -62,7 +62,7 @@ realized, the dream of the decentralized or even distributed
 architecture of the network, that didn’t come into being. The dream of a
 network that was in reality taken over by the more sovereign and
 mainstream infrastructures. And now there is this question that always
-takes me back to the expectations of the 1990s, and the first platforms
+takes me back to the expectations of the 90s, and the first platforms
 – IRC, Usenet. All these expectations were there – so what happened,
 what changed? The approach of Manuel Castells, for example, was all
 about how communication networks would bring change to society,
@@ -309,7 +309,7 @@ alone how it came into being. Just because it works, shouldn’t stop us
 from critically reflecting on it. Here a media genealogical
 understanding might be advantageous.
 
-**GL:** In the late 1990s network theory turned into network science,
+**GL:** In the late 90s network theory turned into network science,
 and then stopped. I am not saying that people have stopped thinking
 about networks but this specific trajectory stalled. Castells’s network
 society has not been widely adopted. Lately I’ve been in contact with

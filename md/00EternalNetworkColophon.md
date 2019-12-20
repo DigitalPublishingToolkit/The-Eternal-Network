@@ -1,20 +1,17 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
+Pr-id: The Eternal Network:The Ends and Becomings of Network Culture
+Book-type: reader
+
+Item-id: ISBN EPUB: 978-94-92302-45-8
+
+Editor: Kristoffer Gansing and Inga Luchs
+
+Abstract:   ‘The network is everlasting’ wrote Robert Filliou andGeorge Brecht in 1967, a statement that, at first glance,still seems to be true of today’s world. Yet there arealso signs that the omnipresence of networks is evolvinginto another reality. In recent times, the limits ofnetworks rather than their endless possibilities havebeen brought into focus. Ongoing media debates about hatespeech, fake news, and algorithmic bias swirl into agrowing backlash against networks. Perhaps it is time toreconsider the contemporary reach and relevance ofthe network imaginary.Accompanying transmediale 2020 End to End’s exhibition‘The Eternal Network’, this collection gathers contributionsfrom artists, activists, and theorists who engagewith the question of the network anew. In referencingFilliou’s eternal notion, the exhibition and publicationproject closes the loop between pre- and post-internetimaginaries, opening up possible futures with and beyondnetworks. This calls many of the collection’s authors toturn to instances of independent and critical net culturesas historical points of inspiration for rethinking,reforming, or refuting networks in the present.Contributors: Clemens Apprich, Johanna Bruckner, DaphneDragona, Kristoffer Gansing, Lorena Juan, Aay Liparoto,Geert Lovink, Alessandro Ludovico, Aymeric Mansoux,Rachel O‘Dwyer, Luiza Prado de O. Martins, Roel RoscamAbbing, Femke Snelting, and Florian Wüst.
+
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 ...
+
 #Colophon
 
 **The Eternal Network: The Ends and Becomings of Network Culture**<br/>
@@ -22,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 **Authors**: Clemens Apprich, Johanna Bruckner, Daphne Dragona, Kristoffer
 Gansing, Lorena Juan, Aay Liparoto, Geert Lovink, Alessandro Ludovico,
-Aymeric Mansoux, Rachel Dwyer, Luiza Prado de
+Aymeric Mansoux, Rachel O'Dwyer, Luiza Prado de
 O. Martins, Roel Roscam Abbing, Femke Snelting, and Florian Wüst.
 
 **Editorial coordination**: Tabea Hamperl

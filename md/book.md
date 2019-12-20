@@ -1,3 +1,4 @@
+
 #Colophon
 
 **The Eternal Network: The Ends and Becomings of Network Culture**<br/>
@@ -5,7 +6,7 @@
 
 **Authors**: Clemens Apprich, Johanna Bruckner, Daphne Dragona, Kristoffer
 Gansing, Lorena Juan, Aay Liparoto, Geert Lovink, Alessandro Ludovico,
-Aymeric Mansoux, Rachel Dwyer, Luiza Prado de
+Aymeric Mansoux, Rachel O'Dwyer, Luiza Prado de
 O. Martins, Roel Roscam Abbing, Femke Snelting, and Florian Wüst.
 
 **Editorial coordination**: Tabea Hamperl
@@ -86,7 +87,7 @@ Daphne Dragona
 <a href='ch007.xhtml'>**There Are Words and Worlds That Are Truthful and True**</a><br/>
 Luiza Prado de O. Martins
 
-##Human, Nonhuman and Networks In Between
+##Human, Nonhuman and Networks in Between
 
 <a href='ch008.xhtml'>**Network Topologies: From the Early Web to Human Mesh Networks**</a><br/>
 Alessandro Ludovico
@@ -170,7 +171,7 @@ are becoming visible, it might be time to readdress the network
 question, which is ultimately about future models of sociality,
 technology, and politics, in societies after globalization.
 
-## The Network Is Everlasting
+## The Network is Everlasting
 
 In 1967, Robert Filliou and George Brecht published a poem in which they
 stated that ‘the network is everlasting’.[^02GansingIntroduction_4] This was a piece of
@@ -210,13 +211,13 @@ network idealism that emerged in the twentieth century – the network
 idea, as a positive, organizing social factor, if you will – as well as
 what could be called the ‘actually existing’ network culture that
 co-evolved with the technical network of the internet and the World Wide
-Web, during the 1990s and beyond. The book and exhibition each attempt
+Web, during the 90s and beyond. The book and exhibition each attempt
 to explore the limits of networks, and of ‘the network’ – as, at once, a
 cultural and aesthetic imaginary, as well as a technological form –
 seeking forgotten and potential futures, with or without networks.
 Particular attention is paid to the legacies of a certain brand of
 critical internet and network culture that developed in Europe (and
-beyond) throughout the 1990s, offering alternatives to the
+beyond) throughout the 90s, offering alternatives to the
 entrepreneurial ideals and solutionism of Silicon Valley.
 
 ## From Networks to Networlds
@@ -308,7 +309,7 @@ wiki platform *Not Found On*, which Liparoto initiated in 2019. The
 platform constitutes a rethinking, from an intersectional perspective,
 of the way that collective and open-source projects and knowledge
 resources are conducted and cared for. Offering a web service that is
-closed to the general public, Liparoto and her collaborators attempt to
+closed to the general public, Liparoto and their collaborators attempt to
 create the online equivalent of a ‘safe space’, for individuals (or
 dividuals) and communities that, due to their precarious social status,
 do not necessarily want to be exposed on so-called open and
@@ -340,7 +341,7 @@ In the final section, ‘Endings and New Becomings’, Geert Lovink offers
 an impassioned ‘Requiem for the Network’, reflecting on the possible
 death not only of network culture, but also the particular brand of
 critical and autonomous net cultures for which he himself helped to
-advocate from the mid-1990s onwards. As is fitting, he doesn’t stay with
+advocate from the mid-90s onwards. As is fitting, he doesn’t stay with
 the nostalgic resentment of the aging internet critic: instead, by
 introducing interviews, he turns the piece into a conversation with
 multiple networked voices, offering up further perspectives on the fate
@@ -388,7 +389,7 @@ maintaining networks.
 ## ‘Digitalization’ – Sounds Like a 90s Party
 
 It might seem a bit retro to be taking up the discussion of networks
-today, as something more properly belonging to the 1990s along with
+today, as something more properly belonging to the 90s along with
 Manuel Castell’s thesis on *The* *Rise of the Network Society*,[^02GansingIntroduction_7]
 actor-network theory, films such as *The Matrix*, and of course the mass
 popularization of the internet through the World Wide Web. Today, even
@@ -397,10 +398,10 @@ come to figure as a hidden technical layer, rather than as something
 whose discussion is, in itself, a cultural force. Meanwhile, however,
 many other buzzwords and phenomena of thirty years or so ago are now
 re-emerging, into what could well be called digitalization’s normative
-phase. In many ways, the 1990s are back, or so it seems – only look at
+phase. In many ways, the 90s are back, or so it seems – only look at
 the kind of topics that are at the forefront of today’s digital culture.
 Virtual reality, immersion, artificial intelligence: all as present as
-they were in the early multimedia years of the 1990s, and again in the
+they were in the early multimedia years of the 90s, and again in the
 new millennium’s first five years of ‘new media’ hype. Of course, this
 time around, there are differences in how those terms are used and
 understood, as well as in the technical realities behind them. The
@@ -538,7 +539,7 @@ why we would do that.
 *was* the network?’ In the discourse around the digital, we have indeed
 moved somewhere else under the conditions of surveillance capitalism and
 platforms. We are in a totally different situation compared to what we
-historically refer to as the networks of the 1990s, when there was big
+historically refer to as the networks of the 90s, when there was big
 hope for a functioning decentralization of information and agency. But
 if I look at other fields, I have the feeling that networks haven’t even
 been built, so how could they have dissolved? Areas where people haven’t
@@ -557,7 +558,7 @@ realized, the dream of the decentralized or even distributed
 architecture of the network, that didn’t come into being. The dream of a
 network that was in reality taken over by the more sovereign and
 mainstream infrastructures. And now there is this question that always
-takes me back to the expectations of the 1990s, and the first platforms
+takes me back to the expectations of the 90s, and the first platforms
 – IRC, Usenet. All these expectations were there – so what happened,
 what changed? The approach of Manuel Castells, for example, was all
 about how communication networks would bring change to society,
@@ -804,7 +805,7 @@ alone how it came into being. Just because it works, shouldn’t stop us
 from critically reflecting on it. Here a media genealogical
 understanding might be advantageous.
 
-**GL:** In the late 1990s network theory turned into network science,
+**GL:** In the late 90s network theory turned into network science,
 and then stopped. I am not saying that people have stopped thinking
 about networks but this specific trajectory stalled. Castells’s network
 society has not been widely adopted. Lately I’ve been in contact with
@@ -1598,9 +1599,6 @@ understanding and survival of life-worlds.
 
 ## Geocinema 
 
-![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.jpg)
-
-<br/>
 
 Asia Bazdyrieva, Alexey Orlov, and Solveig Suess initiated the
 *Geocinema* project in order to examine how planetary scale sensory
@@ -1618,6 +1616,10 @@ distributed cinematic apparatus’ which can be used to remind us that
 there is not one Earth, but many, ‘always composite \[…\] stitched
 together into a montage of the world’[^05DragonaNetworksAndLifeWorlds_25] – *Geocinema* comprises
 multiple angles, edits, and viewings.
+
+![Fig. 1: Geocinema, *Framing Territories*, 2019 (film still).](imgs/5.1.jpg)
+
+<br/>
 
 For the production of the work the team conducted lengthy field trips
 and in-depth research, exploring the planetary network of
@@ -1655,10 +1657,6 @@ locations across the planet.
 
 ## Asunder
 
-![Fig. 2: Tega Brain, Julian Oliver, Bengt Sjölén, *Asunder*, 2019
-(installation view).](imgs/5.2.jpg)
-
-<br/>
 
 In their project *Asunder,* Tega Brain, Julian Oliver, and Bengt Sjölén
 address the representation and engineering of the Earth via an
@@ -1680,6 +1678,11 @@ repurposed to include a wider diversity of agendas and perspectives, and
 to keep in mind life-forms other than the human. This is a call for a
 rethinking of the ‘biases and scopes’ of what ‘success and failure’ are
 considered to be, when it comes to technologies of geoengineering.[^05DragonaNetworksAndLifeWorlds_33]
+
+![Fig. 2: Tega Brain, Julian Oliver, Bengt Sjölén, *Asunder*, 2019
+(installation view).](imgs/5.2.jpg)
+
+<br/>
 
 *Asunder* is a project that, while speculative in character, is based on
 real data drawn from specific regions, arising from a climate modeling
@@ -1703,10 +1706,6 @@ to say, that the ends and endings are not quite in view.
 
 ## Deep Steward 
 
-![Fig. 3: Klaas Kuitenbrouwer, Theun Karelse, *DeepSteward* as part of
-Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.jpg)
-
-<br/>
 
 *Machine Wilderness,* an art and science initiative connected to the
 *FoAM* network[^05DragonaNetworksAndLifeWorlds_38] and initiated by Theun Karelse speaks of
@@ -1715,6 +1714,11 @@ disturb habitats and crush biodiversity’.[^05DragonaNetworksAndLifeWorlds_40] 
 technologies are human-centered in the first place, not taking in mind
 the complexity, biodiversity and different forms of energy of the living
 environment.
+
+![Fig. 3: Klaas Kuitenbrouwer, Theun Karelse, *DeepSteward* as part of
+Zoop at Nieuwe Instituut, 2019 (video still).](imgs/5.3.jpg)
+
+<br/>
 
 *Machine Wilderness*, as the name implies, aims to bring wilderness
 again to the center of attention, a notion that might be thought as
@@ -1761,11 +1765,6 @@ intelligence.
 
 ## Permaculture Network 
 
-![Fig. 4: Gary Zhexi Zhang and Agnes Cameron, *Permaculture Network*, 2019
-(screenshot).](imgs/5.4.jpg)
-
-<br/>
-
 The potential of networks to empower wilderness is what drove Gary Zhexi
 Zhang and Agnes Cameron to develop the *Permaculture Network*
 project.[^05DragonaNetworksAndLifeWorlds_47] While they were the artists-in-residence of the
@@ -1777,6 +1776,12 @@ has self-rewilded, an ideal situation in terms of ecological
 conservation and permaculture, however this is because it is part of
 Area C of the West Bank, where Palestinians are not allowed to
 build.[^05DragonaNetworksAndLifeWorlds_48]
+
+![Fig. 4: Gary Zhexi Zhang and Agnes Cameron, *Permaculture Network*, 2019
+(screenshot).](imgs/5.4.jpg)
+
+<br/>
+
 
 Social and network infrastructures, technological and living systems,
 political and cultural asymmetries are all featured in this project, in
@@ -1860,10 +1865,10 @@ As Déborah Danowski argues, ‘when the end of the world is reached, an
 entire new world, even if so desired, is impossible.’[^05DragonaNetworksAndLifeWorlds_55] Reprogramming
 or remaking the world is not achievable either, and this is most likely
 a disorientating direction for societies to face in, away from their
-real responsibilities for effecting change. What is still possible,
+real responsibilities for effecting change.[^05DragonaNetworksAndLifeWorlds_56] What is still possible,
 though, is to invent ‘new ways of living with what we have, in the ruins
-of the present world.’[^05DragonaNetworksAndLifeWorlds_56] It is, principally, relationships that need
-to be repaired, not just landscapes, the atmosphere, the climate.[^05DragonaNetworksAndLifeWorlds_57]
+of the present world.’[^05DragonaNetworksAndLifeWorlds_57] It is, principally, relationships that need
+to be repaired, not just landscapes, the atmosphere, the climate.[^05DragonaNetworksAndLifeWorlds_58]
 Returning to the network as a model for understanding the world, from
 this relational perspective, it is not just the nodes, or ends, that
 need to be taken care of; it is the ‘lines’ as well – the connections
@@ -2051,9 +2056,10 @@ endings.
     many people with way too little”’, *Mediapart blog,* 8 April 2019,
     [https://blogs.mediapart.fr/krystian-woznicki/blog/080419/welcoming-ends-world](https://blogs.mediapart.fr/krystian-woznicki/blog/080419/welcoming-ends-world).
 
-[^05DragonaNetworksAndLifeWorlds_56]: Danowski and Woznicki, ‘Welcoming the Ends of the World’.
+[^05DragonaNetworksAndLifeWorlds_56]: Neyrat, *The Unconstructable Earth*, p. 33.
+[^05DragonaNetworksAndLifeWorlds_57]: Danowski and Woznicki, ‘Welcoming the Ends of the World’.
 
-[^05DragonaNetworksAndLifeWorlds_57]: Buck, *After Geoengineering*, p. 44.
+[^05DragonaNetworksAndLifeWorlds_58]: Buck, *After Geoengineering*, p. 44.
 
 
 
@@ -2748,7 +2754,7 @@ and the techno-cultural developments of networks.
 ## Early Utopia: Revealed Topologies and Personal Networks 
 
 In the first decade of the public and then mass internet (early 90s to
-early 2000s) the visualization of the network structure represented the
+early 00s) the visualization of the network structure represented the
 new underlying digital structure that was forming behind the visual
 appearance of single pages (typically shown as browser content). The
 lack of any accurately compiled topologies, due to the constant growth
@@ -4836,7 +4842,7 @@ Self-organization from below is the precise opposite of smooth
 interfaces, automated imports of address books and algorithmic
 ‘governance’ of one’s news and updates. Self-determination is not
 something you can download and install for free. During the turbulent
-1990s, centralized information systems lost their power and legitimacy;
+90s, centralized information systems lost their power and legitimacy;
 but instead of smaller networks that claimed to be more democratic, and
 – in theory – to promote people’s autonomy and sovereignty, all we got
 was ever larger and more manipulative monopolistic platforms.
@@ -5071,13 +5077,13 @@ How did this *Netzvergessenheit*, this forgetfulness towards networks,
 occur? Once, when a network became too big, it was supposed first to
 disintegrate, then to regroup, then to replicate its structure at a
 higher, or meta level to create a ‘network of networks’. For those
-around in the ‘emerging’ 1990s, some of these dynamics were patently on
+around in the ‘emerging’ 90s, some of these dynamics were patently on
 display. These days, the foundational network principles –
 decentralization, distribution, federation – still sound idealistic and
 magnificent, yet more unreachable than ever before. Historically
 speaking, the trouble started right at the height of their influence.
 When the internet population started to grow exponentially in the late
-1990s to early 2000s, diversification reached a critical point, as users
+90s to early 00s, diversification reached a critical point, as users
 started to flock to the same websites. Conceptually speaking, Web 2.0
 began with ‘scale-free networks’ that exhibited a power-law degree of
 distribution. The introduction of this term marked a paradigmatic shift,
@@ -5102,7 +5108,7 @@ Similarly, in the case of actor-network theory, it simply could not
 compute the ugly side of social media platforms. None of this was
 supposed to happen, even as the political-economy blind-spot of the
 ‘mapping-without-a-cause’ Latour school became blatantly evident. From
-the late 1990s onwards, it was increasingly clear that academics and
+the late 90s onwards, it was increasingly clear that academics and
 theorists were no longer capable of keeping up with Silicon Valley’s
 hypergrowth strategy, as its venture capitalists quietly financed the
 move from neoliberal markets to the creation of monopolies by ‘breaking
@@ -5306,7 +5312,7 @@ abyss.
 
 Is the platform the historically necessary next step, or is it, rather,
 an anomaly? If tech ubiquity is a given for the foreseeable future, how
-should we read 1990s-network nostalgia? Is a renaissance of
+should we read 90s-network nostalgia? Is a renaissance of
 decentralized infrastructure, actively owned and defended by
 communities, a viable option? What happens if we decide to put in a
 massive effort to dismantle ‘free’ platforms and their cultures of
@@ -6369,7 +6375,7 @@ audience. Calls for better governance of software projects are also
 ongoing in FLOSS communities more widely. The development of codes of
 conduct (a key document for Fediverse instances to lay out their vision
 of their community and politics) was introduced in various FLOSS
-communities in the early 2010s, in response to systematic misogyny and
+communities in the early 10s, in response to systematic misogyny and
 the exclusion of minorities from FLOSS spaces both on- and offline.[^13MansouxRoscamAbbingSevenTheses_29]
 Codes of conduct also serve the need for generative forms of conflict
 resolution across cultural and language barriers.
