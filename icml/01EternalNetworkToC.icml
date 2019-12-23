@@ -98,7 +98,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>The Never-ending Network</Content>
+    <Content>The Never-ending Network: A Repetitive and (thus) Differentiating Concept of Our Time</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Clemens Apprich</Content>
@@ -107,7 +107,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Networks and Life-worlds</Content>
+    <Content>Networks and Life-worlds: Ends and Endings</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -128,7 +128,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Human, Nonhuman and Networks In Between</Content>
+    <Content>Human, Nonhuman and Networks in Between</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -207,6 +207,12 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Aymeric Mansoux and Roel Roscam Abbing</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Biographies</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 

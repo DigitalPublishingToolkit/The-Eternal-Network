@@ -62,3 +62,5 @@ Femke Snelting
 
 <a href='ch018.xhtml'>**Seven Theses on the Fediverse and the Becoming of FLOSS**</a><br/>
 Aymeric Mansoux and Roel Roscam Abbing
+
+##<a href='ch019.xhtml'>Biographies</a><br/>
